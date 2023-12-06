@@ -1,8 +1,4 @@
 # General Exports
-if [[ -d "$HOME/.local/bin" ]]; then
-    export PATH="$HOME/.local/bin:$PATH"
-fi
-
 if [[ -d "$HOME/Scripts" ]]; then
     export PATH="$HOME/Scripts/:$PATH"
 fi
@@ -25,6 +21,10 @@ fi
 
 if [[ -d "/opt/homebrew/opt/openssl@3/bin" ]]; then
     export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
+fi
+
+if [[ -d "$HOME/.local/bin" ]]; then
+    export PATH="$HOME/.local/bin:$PATH"
 fi
 
 export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include -I/opt/homebrew/opt/node@16/include -I/opt/homebrew/include -I/opt/homebrew/opt/openjdk/include -I/opt/homebrew/opt/ruby@3.1/include -I/opt/homebrew/opt/openjdk/include"
