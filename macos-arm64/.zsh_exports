@@ -43,3 +43,5 @@ if [[ -d "$HOME/.rbenv" ]]; then
     eval "$(~/.rbenv/bin/rbenv init - zsh)"
     export PATH="/opt/homebrew/opt/ruby@3.1/bin:$PATH"
     export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
+fi
+
