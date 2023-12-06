@@ -28,7 +28,6 @@ if [[ -d "/opt/homebrew/opt/openssl@3/bin" ]]; then
 fi
 
 export CPPFLAGS="-I/opt/homebrew/opt/openssl@3/include -I/opt/homebrew/opt/node@16/include -I/opt/homebrew/include -I/opt/homebrew/opt/openjdk/include -I/opt/homebrew/opt/ruby@3.1/include -I/opt/homebrew/opt/openjdk/include"
-export HOMEBREW_NO_ANALYTICS=1
 export LDFLAGS="-L/opt/homebrew/opt/openssl@3/lib -L/opt/homebrew/opt/node@21/lib -L/opt/homebrew/opt/ruby@3.1/lib"
 export PKG_CONFIG_PATH="/opt/homebrew/opt/openssl@3/lib/pkgconfig:/opt/homebrew/opt/mysql-client/lib/pkgconfig:/opt/homebrew/opt/ruby@3.1/lib/pkgconfig:$PKG_CONFIG_PATH"
 
