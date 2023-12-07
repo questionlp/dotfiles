@@ -1,0 +1,99 @@
+if [[ $HOMEBREW_PREFIX && -d $HOMEBREW_PREFIX ]]; then
+    # Set Homebrew package paths
+    homebrew_paths="$HOMEBREW_PREFIX/bin:$HOMEBREW_PREFIX/sbin"
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/node/bin" ]]; then
+        homebrew_paths="$homebrew_paths:$HOMEBREW_PREFIX/opt/node/bin"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/openjdk/bin" ]]; then
+        homebrew_paths="$homebrew_paths:$HOMEBREW_PREFIX/opt/openjdk/bin"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/openssl@3/bin" ]]; then
+        homebrew_paths="$homebrew_paths:$HOMEBREW_PREFIX/openssl@3/bin"
+    fi
+
+    export PATH="$homebrew_paths:$PATH"
+
+    # Set CPPFLAGS for Homebrew installed packages
+    if [[ -d "$HOMEBREW_PREFIX/include" ]]; then
+        cppflags="-I$HOMEBREW_PREFIX/include"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/openssl/include" ]]; then
+        cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/openssl/include"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/node/include" ]]; then
+        cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/node/include"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/openjdk/include" ]]; then
+        cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/openjdk/include"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/ruby/include" ]]; then
+        cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/ruby/include"
+    fi
+
+    export CPPFLAGS="$cppflags $CPPFLAGS"
+
+    # Set LDFLAGS for Homebrew installed packages
+    if [[ -d "$HOMEBREW_PREFIX/opt/openssl/lib" ]]; then
+        ldflags="-L$HOMEBREW_PREFIX/opt/openssl/lib"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/node/lib" ]]; then
+        ldflags="$ldflags -L$HOMEBREW_PREFIX/opt/node/lib"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/ruby/lib" ]]; then
+        ldflags="$ldflags -L$HOMEBREW_PREFIX/opt/ruby/lib"
+    fi
+
+    export LDFLAGS="$ldflags $LDFLAGS"
+
+    # Set PKG_CONFIG_PATH for Homebrew installed packages
+    if [[ -d "$HOMEBREW_PREFIX/opt/openssl/lib/pkgconfig" ]]; then
+        pkg_paths="$HOMEBREW_PREFIX/opt/openssl/lib/pkgconfig"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/mysql-client/lib/pkgconfig" ]]; then
+        pkg_paths="$pkg_paths:$HOMEBREW_PREFIX/opt/mysql-client/lib/pkgconfig"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/ruby/lib/pkgconfig" ]]; then
+        pkg_paths="$pkg_paths:$HOMEBREW_PREFIX/opt/ruby/lib/pkgconfig"
+    fi
+
+    if [[ $PKG_CONFIG_PATH ]]; then
+        export PKG_CONFIG_PATH="$pkg_paths:$PKG_CONFIG_PATH"
+    else
+        export PKG_CONFIG_PATH="$pkg_paths"
+    fi
+fi
+
+# Add personal directory paths
+if [[ -d "$HOME/.local/bin" ]]; then
+    export PATH="$HOME/.local/bin:$PATH"
+fi
+
+if [[ -d "$HOME/scripts" ]]; then
+    export PATH="$HOME/scripts/:$PATH"
+fi
+
+# nvm: Node Version Manager
+if [[ -f "$HOME/.nvm/nvm.sh" ]]; then
+    export NVM_DIR="$HOME/.nvm"
+    [ -s "$HOME/.nvm/nvm.sh" ] && \. "$HOME/.nvm/nvm.sh"
+    [ -s "$HOME/.nvm/etc/bash_completion.d/nvm" ] && \. "$HOME/.nvm/etc/bash_completion.d/nvm"
+fi
+
+# rbenv: Ruby Version Management
+if [[ -f "$HOME/.rbenv/bin/rbenv" && -d "$HOMEBREW_PREFIX/opt/openssl" ]]; then
+    eval "$($HOME/.rbenv/bin/rbenv init - zsh)"
+    export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$HOMEBREW_PREFIX/opt/openssl"
+elif [[ -f "$HOME/.rbenv/bin/rbenv" ]]; then
+    eval "$($HOME/.rbenv/bin/rbenv init - zsh)"
+fi

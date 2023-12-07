@@ -1,0 +1,2 @@
+# Command Aliases
+alias yt="yt-dlp -i --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
