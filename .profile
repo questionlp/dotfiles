@@ -31,5 +31,5 @@ eval "$(pyenv init -)"
 
 
 # Added by Toolbox App
-export PATH="$PATH:/home/lpham/.local/share/JetBrains/Toolbox/scripts"
+export PATH="$PATH:$HOME/.local/share/JetBrains/Toolbox/scripts"
 
