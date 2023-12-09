@@ -28,3 +28,6 @@ For the version manager tools, make sure to install them using the respective Gi
 ## Installation
 
 Clone this repository into a location of your choice, back up any existing Z Shell-related files mentioned under the Z Shell section above, and create symlinks in your home directory for each Z Shell-related files in the repository.
+
+The repository also includes a `.screenrc` file that includes a customized hardstatus line. You can create a symlink in your home directory to point to the file in the repository.
+
