@@ -117,3 +117,8 @@ fi
 if [[ -f "$HOME/.zsh_aliases" ]]; then
   source $HOME/.zsh_aliases
 fi
+
+# Import $HOME/.zsh_extras, if found
+if [[ -f "$HOME/.zsh_extras" ]]; then
+    source $HOME/.zsh_extras
+fi
