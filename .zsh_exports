@@ -1,6 +1,6 @@
 if [[ $HOMEBREW_PREFIX && -d $HOMEBREW_PREFIX ]]; then
     # Set Homebrew package paths
-    homebrew_paths="$HOMEBREW_PREFIX/bin:$HOMEBREW_PREFIX/sbin"
+    homebrew_paths=""
 
     if [[ -d "$HOMEBREW_PREFIX/opt/node/bin" ]]; then
         homebrew_paths="$homebrew_paths:$HOMEBREW_PREFIX/opt/node/bin"
@@ -14,7 +14,7 @@ if [[ $HOMEBREW_PREFIX && -d $HOMEBREW_PREFIX ]]; then
         homebrew_paths="$homebrew_paths:$HOMEBREW_PREFIX/openssl@3/bin"
     fi
 
-    export PATH="$homebrew_paths:$PATH"
+    export PATH="$PATH:$homebrew_paths"
 
     # Set CPPFLAGS for Homebrew installed packages
     if [[ -d "$HOMEBREW_PREFIX/include" ]]; then
