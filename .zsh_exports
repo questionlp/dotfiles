@@ -33,6 +33,10 @@ if [[ $HOMEBREW_PREFIX && -d $HOMEBREW_PREFIX ]]; then
         cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/openjdk/include"
     fi
 
+    if [[ -d "$HOMEBREW_PREFIX/opt/readline/include" ]]; then
+        cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/readline/include"
+    fi
+
     if [[ -d "$HOMEBREW_PREFIX/opt/ruby/include" ]]; then
         cppflags="$cppflags -I$HOMEBREW_PREFIX/opt/ruby/include"
     fi
@@ -46,6 +50,10 @@ if [[ $HOMEBREW_PREFIX && -d $HOMEBREW_PREFIX ]]; then
 
     if [[ -d "$HOMEBREW_PREFIX/opt/node/lib" ]]; then
         ldflags="$ldflags -L$HOMEBREW_PREFIX/opt/node/lib"
+    fi
+
+    if [[ -d "$HOMEBREW_PREFIX/opt/readline/lib" ]]; then
+        ldflags="$ldflags -L$HOMEBREW_PREFIX/opt/readline/lib"
     fi
 
     if [[ -d "$HOMEBREW_PREFIX/opt/ruby/lib" ]]; then
