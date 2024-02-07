@@ -1,3 +1,6 @@
+# Add base sbin paths
+export PATH="$PATH:/sbin:/usr/sbin"
+
 # Initialize Homebrew path based on system architecture on macOS
 if [[ $(uname) == "Darwin" ]]; then
     export HOMEBREW_NO_ANALYTICS=1
