@@ -1,6 +1,3 @@
-# Add base sbin paths
-export PATH="$PATH:/sbin:/usr/sbin"
-
 # Initialize Homebrew path based on system architecture on macOS
 if [[ $(uname) == "Darwin" ]]; then
     export HOMEBREW_NO_ANALYTICS=1
@@ -22,3 +19,4 @@ fi
 if [[ $(uname) == "Darwin" && -d "$HOME/Library/Application Support/JetBrains/Toolbox/scripts" ]]; then
     export PATH="$PATH:$HOME/Library/Application Support/JetBrains/Toolbox/scripts"
 fi
+
