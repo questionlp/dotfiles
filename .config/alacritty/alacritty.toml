@@ -15,4 +15,4 @@ size = 11
 style = { shape = "Beam", blinking = "On" }
 
 [keyboard]
-bindings = [{ key = "N", mods = "Control", action = "CreateNewWindow" }]
+bindings = [{ key = "N", mods = "Control | Shift", action = "CreateNewWindow" }]
