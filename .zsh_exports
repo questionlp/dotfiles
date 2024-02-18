@@ -109,3 +109,14 @@ if [[ -f "$HOME/.rbenv/bin/rbenv" && -d "$HOMEBREW_PREFIX/opt/openssl" ]]; then
 elif [[ -f "$HOME/.rbenv/bin/rbenv" ]]; then
     eval "$($HOME/.rbenv/bin/rbenv init - zsh)"
 fi
+
+# rustup: Rust Installer
+case ":${PATH}:" in
+    *:"$HOME/.cargo/bin":*)
+        ;;
+    *)
+        # Prepending path in case a system-installed rustc needs to be overridden
+        export PATH="$HOME/.cargo/bin:$PATH"
+        ;;
+esac
+
