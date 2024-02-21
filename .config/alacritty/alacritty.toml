@@ -2,11 +2,17 @@ import = [
     "~/.config/alacritty/themes/themes/thelovelace.toml"
 ]
 
+live_config_reload = false
+
+[shell]
+program = "/usr/bin/env"
+args = ["zsh", "-l"]
+
 [env]
 TERM = "xterm-256color"
 
 [window]
-dimensions = { columns = 100, lines = 44 }
+dimensions = { columns = 110, lines = 50 }
 decorations_theme_variant = "Dark"
 
 [font]
