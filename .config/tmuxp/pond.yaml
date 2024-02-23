@@ -1,0 +1,11 @@
+session_name: pond
+windows:
+  - window_name: Home1
+    start_directory: $HOME
+  - window_name: Home2
+    start_directory: $HOME
+  - window_name: Logs
+    start_directory: $HOME
+  - window_name: Mail
+    start_directory: $HOME
+
