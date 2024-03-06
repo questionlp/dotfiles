@@ -14,6 +14,8 @@ TERM = "xterm-256color"
 [window]
 dimensions = { columns = 110, lines = 50 }
 decorations_theme_variant = "Dark"
+opacity = 0.9
+blur = true
 
 [font]
 normal = { family = "Berkeley Mono Variable", style = "Regular" }
