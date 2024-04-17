@@ -1,0 +1,65 @@
+set -g default-terminal "xterm-256color"
+
+# Set to prefix to CTRL+a to match GNU Screen
+set -g prefix C-a
+
+# Unbind default prefix of CTRL+b
+unbind C-b
+
+# Send CTRL+a to application by pressing it twice
+bind C-a send-prefix
+
+set -g mouse off
+# toggle mouse mode to allow mouse copy/paste
+# set mouse on with prefix m
+bind m \
+    set -g mouse on \;\
+    display 'Mouse: ON'
+# set mouse off with prefix M
+bind M \
+    set -g mouse off \;\
+    display 'Mouse: OFF' 
+
+# Disable visual bells
+set -g visual-activity off
+set -g visual-bell off
+set -g visual-silence off
+setw -g monitor-activity off
+set -g bell-action none
+
+# Configure status bar
+set -g status-position bottom
+set -g status-justify left
+set -g status-style 'fg=white bg=colour54'
+set -g status-left '[#h][ '
+set -g status-right '][%Y-%m-%d %H:%M]'
+set -g status-right-length 20 
+set -g status-left-length 20
+
+setw -g window-status-current-style 'fg=black bg=colour207 bold'
+setw -g window-status-current-format ' #F#I #W '
+
+setw -g window-status-style 'fg=white'
+setw -g window-status-format ' #F#I #W '
+
+setw -g window-status-bell-style 'fg=colour2 bg=colour1 bold'
+
+# Set message style
+set -g message-style 'fg=white bg=green bold'
+
+# Window titling
+set-window-option -g automatic-rename off
+set-option -g allow-rename off
+set-option -g set-titles on
+set-option -g set-titles-string '#{user}@#{host}: #{window_name}'
+
+# Change pane splitting
+bind | split-window -h
+bind - split-window -v
+unbind '"'
+unbind %
+
+# Add config reload binding
+bind r source-file $HOME/.tmux.conf
+
+
