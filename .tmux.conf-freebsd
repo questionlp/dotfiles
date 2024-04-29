@@ -1,3 +1,5 @@
+# FreeBSD 12.x does not have the appropriate tmux terminal definitions
+# overriding to xterm-256color
 set -g default-terminal "xterm-256color"
 
 # Set to prefix to CTRL+a to match GNU Screen
@@ -19,6 +21,10 @@ bind m \
 bind M \
     set -g mouse off \;\
     display 'Mouse: OFF' 
+
+# Disable mouse scroll up/down on xterm* and tmux* terminals
+set -g terminal-overrides 'xterm*:smcup@:rmcup@'
+set -g terminal-overrides 'tmux*:smcup@:rmcup@'
 
 # Disable visual bells
 set -g visual-activity off
@@ -61,5 +67,4 @@ unbind %
 
 # Add config reload binding
 bind r source-file $HOME/.tmux.conf
-
 
