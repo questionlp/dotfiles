@@ -1,2 +1,6 @@
 # Ignore any old files that's checked into the repository
 .old
+
+# Ignore konsole state
+.local/share/konsole/konsolestaterc
+
