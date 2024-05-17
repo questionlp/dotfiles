@@ -1,4 +1,14 @@
 # Command Aliases
 alias yt="yt-dlp -i --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias neofetch="hyfetch"
 
+# Only create pbcopy and pbpaste aliases on Linux and FreeBSD
+# if xclip or xsel is available
+if [[ $(uname) == "Linux" || $(uname) == "FreeBSD" ]]; then
+    if command -v xclip &> /dev/null; then
+        alias pbcopy="xclip -selection clipboard"
+        alias pbpaste="xclip -selection clipboard -o"
+    elif command -v xclip &> /dev/null; then
+        alias pbcopy="xsel --clipboard --input"
+        alias pbpaste="xsel --clipboard --output"
+    fi
+fi
