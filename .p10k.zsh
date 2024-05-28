@@ -930,8 +930,8 @@
 
   ###[ virtualenv: python virtual environment (https://docs.python.org/3/library/venv.html) ]###
   # Python virtual environment color.
-  typeset -g POWERLEVEL9K_VIRTUALENV_FOREGROUND=0
-  typeset -g POWERLEVEL9K_VIRTUALENV_BACKGROUND=4
+  typeset -g POWERLEVEL9K_VIRTUALENV_FOREGROUND=254
+  typeset -g POWERLEVEL9K_VIRTUALENV_BACKGROUND=65
   # Don't show Python version next to the virtual environment name.
   typeset -g POWERLEVEL9K_VIRTUALENV_SHOW_PYTHON_VERSION=if-different
   # If set to "false", won't show virtualenv if pyenv is already shown.
@@ -978,7 +978,7 @@
 
   ################[ pyenv: python environment (https://github.com/pyenv/pyenv) ]################
   # Pyenv color.
-  typeset -g POWERLEVEL9K_PYENV_FOREGROUND=0
+  typeset -g POWERLEVEL9K_PYENV_FOREGROUND=254
   typeset -g POWERLEVEL9K_PYENV_BACKGROUND=4
   # Hide python version if it doesn't come from one of these sources.
   typeset -g POWERLEVEL9K_PYENV_SOURCES=(shell local global)
