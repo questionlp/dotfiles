@@ -23,7 +23,7 @@ bold = { style = "SemiBold" }
 size = 11
 
 [cursor]
-style = { shape = "Beam", blinking = "On" }
+style = { shape = "Block", blinking = "On" }
 
 [keyboard]
 bindings = [{ key = "N", mods = "Control | Shift", action = "CreateNewWindow" }]
