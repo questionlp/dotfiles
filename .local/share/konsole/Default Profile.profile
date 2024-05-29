@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=lovelace
+ColorScheme=iTerm2 Tango Light
 Font=Berkeley Mono,10.5,-1,5,50,0,0,0,0,0
 
 [General]
