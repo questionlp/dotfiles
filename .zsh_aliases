@@ -1,6 +1,10 @@
 # Command Aliases
 alias yt="yt-dlp -i --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
 
+# Lynx
+alias lynx="lynx --lss=~/.config/lynx/lynx.lss"
+
+
 # Only create pbcopy and pbpaste aliases on Linux and FreeBSD
 # if xclip or xsel is available
 if [[ $(uname) == "Linux" || $(uname) == "FreeBSD" ]]; then
