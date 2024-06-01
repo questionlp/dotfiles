@@ -1,0 +1,61 @@
+set	send_charset="us-ascii:utf-8"
+set	charset="utf-8"
+#set	locale="en_US.UTF-8"
+
+set	compose_confirm_detach_first=no
+set	abort_nosubject=no
+set	abort_unmodified=no
+set	alias_file="~/.mutt/aliases"
+set	attribution="On %{%Y-%m-%d %H:%M %Z}, %f wrote:\n"
+set	ascii_chars
+#set	beep_new=yes
+unset	beep_new
+set	delete=ask-yes
+set	dsn_notify="failure"
+set	dsn_return="full"
+#unset	edit_headers
+set	edit_headers=yes
+set	editor="vim -u ~/.mutt/vimrc"
+set	envelope_from
+set	fast_reply
+set	fcc_clear=yes
+set	folder="~/Maildir/"
+unset	forward_decode
+set	forward_format="Fwd: %s"
+set	history=42
+#set	hostname=`hostname`
+set	hostname="closedsrc.org"
+set	include=ask-yes
+set	indent_string="> "
+set	invconfirmappend
+set	mail_check=30
+set	markers=no
+set	mark_old=no
+set	mask="!^\\.[^.]"
+set	metoo=no
+set	mime_forward=ask-yes
+set	move=no
+set	pager_stop
+set	postponed="+.Drafts"
+set	recall=no
+set	record="+.Sent"
+set	reverse_alias
+set	reverse_name
+unset	save_empty
+set	save_name
+set	sendmail_wait=-1
+set	sig_dashes
+set	sleep_time=1
+set	smart_wrap=yes
+set	smileys
+set	sort=date-received
+set	spoolfile="~/Maildir/"
+set	tilde
+set	timeout=60
+#unset	use_domain
+set	visual=vim
+unset	wait_key
+set	weed
+
+auto_view text/html
+alternative_order text/plain text/enriched text/html

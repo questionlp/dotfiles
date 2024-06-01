@@ -1,0 +1,26 @@
+# Include generic settings
+source ~/.mutt/settings
+# Include color settings
+source ~/.mutt/colors-purify
+#source ~/.mutt/colors-light
+#source ~/.mutt/colors
+#source ~/.mutt/colors-new
+#source ~/.mutt/colors-solarized-dark256
+# Include header settings
+source ~/.mutt/headers
+# Include mailboxes
+#source ~/.mutt/mailboxes
+# Include mailing lists
+source ~/.mutt/lists
+# Include key bindings
+source ~/.mutt/keybind
+# Include charset maps
+source ~/.mutt/charsets
+# Include aliases
+source ~/.mutt/aliases
+# Include global GPG settings
+#source /usr/local/share/examples/mutt/gpg.rc
+# Include user GPG settings
+#source ~/.mutt/gpg
+# Include folder hooks
+source ~/.mutt/folders

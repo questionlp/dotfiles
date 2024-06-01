@@ -1,0 +1,46 @@
+ignore		X-Ph:
+ignore		In-Reply-To:
+ignore		Precedence:
+ignore		X-Loop:
+ignore		X-Sender:
+ignore		X-Mailer:
+ignore		Errors-To:
+ignore		X-Listserver:
+ignore		X-Fkey:
+ignore		X-junkfilter:
+ignore		X-jf:
+ignore		X-Received:
+ignore		"From "
+ignore		X-Reply-To:
+ignore		X-Mailing-List:
+ignore		X-Pgp.*
+ignore		X-Mime-Autoconverted:
+ignore		Resent-
+ignore		X-Resent-
+ignore		X-Priority:
+ignore		X-MSMail-Priority:
+ignore		X-MimeOLE:
+ignore		List-
+ignore		X-List-
+ignore		Delivered-To:
+ignore		User-Agent:
+ignore		Mailing-List:
+ignore		X-No-Archive:
+ignore		Organization:
+ignore		*
+
+unignore	From:
+unignore	Subject:
+unignore	Date:
+unignore	To:
+unignore	Cc:
+unignore	X-Spammer:
+unignore	Mail-Copies-To:
+unignore	Reply-To:
+unignore	Mail-Followups-To:
+unignore	Sensitivity:
+
+my_hdr	Organization: closedsrc.org
+my_hdr	Mail-Copies-To: poster
+
+hdr_order	From From: Subject: Date: Reply-To: To: Cc: 

@@ -1,0 +1,46 @@
+color	attachment	magenta		black
+
+color	body		green		black		"^gpg: Good signature from"
+color	body		magenta		black		"[a-z]+tps?://[^ 	>]+"
+color	body		magenta		black		[-_+.a-z0-9]+@[-.a-z0-9]+
+color	body		red		black		"^gpg: BAD signature from"
+color	body		red		black		"^gpg: Bad signature from"
+color	body		red		black		"^gpg: Note: This key has expired!"
+color	body		yellow		black		"^gpg: There is no indication that the signature belongs to the owner."
+color	body		yellow		black		"^gpg: WARNING: This key is not certified with a trusted signature!"
+color	body		yellow		black		"^gpg: can't handle these multiple signatures"
+color	body		yellow		black		"^gpg: invalid node with packet of type"
+color	body		yellow		black		"^gpg: signature verification suppressed"
+
+color	bold		red		black
+color	error		red		black
+color	hdrdefault	yellow		black
+
+color	header		white		black		^(To|[Cc]c):.*question\@
+color	header		white		black		^From:.*
+
+color	index		magenta		black		~T #tagged
+color	index		yellow		black		question
+
+color	indicator	white		black
+color	indicator	white		black
+
+color	markers		white		black
+color	message		magenta		black
+color	normal		green		black
+
+color	quoted		cyan		black
+color	quoted1		yellow		black
+color	quoted2		cyan		black
+color	quoted3		yellow		black
+color	quoted4		cyan		black
+color	quoted5		yellow		black
+color	quoted6		cyan		black
+color	quoted7		yellow		black
+color	quoted8		cyan		black
+
+color	search		white		black
+#color	status		white		blue
+color	status		black		magenta
+color	tilde		blue		black
+color	underline	magenta		black

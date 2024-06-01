@@ -1,0 +1,53 @@
+# emulate PINE's keybindings
+macro index I "c!\n"
+macro pager I "c!\n"
+macro index i "g!\n"
+
+bind editor \cy eol
+
+bind attach <return> view-mailcap
+#bind index v view-mailcap
+bind index v display-message
+bind index p previous-undeleted
+bind index k previous-unread
+bind index - previous-page
+bind index n next-undeleted
+bind index j next-unread
+bind index ' ' next-page
+bind index c mail
+bind index g change-folder
+macro index G "<change-folder>?<toggle-mailboxes>" "open a different folder"
+macro index C "<copy-message>?<toggle-mailboxes>" "copy a message to a mailbox"
+macro index M "<save-message>?<toggle-mailboxes>" "move a message to a mailbox"
+macro index i "<change-folder>!\n" "open main folder"
+bind index w search
+bind index y print-message
+bind index x sync-mailbox
+bind index $ sort-mailbox
+bind index a tag-prefix
+bind index \; tag-entry
+bind index t group-reply
+bind index r reply
+bind index X decrypt-copy 
+bind index <up> previous-entry
+bind index <down> next-entry
+macro index z ltagged\r
+
+bind pager p previous-undeleted
+bind pager n next-undeleted
+bind pager ' ' next-page
+bind pager g change-folder
+macro pager G "<change-folder>?<toggle-mailboxes>" "open a different folder"
+#bind pager G bottom
+bind pager [ half-down
+bind pager ] half-up
+bind pager c mail
+bind pager w search
+bind pager y print-message
+bind pager \n noop
+bind pager <up> previous-line
+bind pager <down> next-line
+bind pager t group-reply
+bind pager r reply
+
+bind compose \cx send-message
