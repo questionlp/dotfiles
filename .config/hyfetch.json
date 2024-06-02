@@ -2,14 +2,11 @@
     "preset": "asexual",
     "mode": "rgb",
     "light_dark": "light",
-    "lightness": 0.21,
+    "lightness": 0.27,
     "color_align": {
         "mode": "horizontal",
         "custom_colors": [],
-        "fore_back": [
-            2,
-            1
-        ]
+        "fore_back": null
     },
     "backend": "neofetch",
     "args": null,
