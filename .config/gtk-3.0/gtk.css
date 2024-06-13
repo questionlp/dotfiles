@@ -1,0 +1,22 @@
+@import 'colors.css';
+
+.window-frame {box-shadow: none;}
+.window-frame:backdrop {box-shadow: none;}
+
+decoration
+{
+    border: 1px solid #444444;
+    border-radius: 6px 6px 0 0;
+    /*box-shadow: 1px 12px 12px 12px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(0, 0, 0, 0.18);*/
+    box-shadow: none;
+    margin: 4px;
+}
+
+decoration:backdrop
+{
+    border: 1px solid #444444;
+    border-radius: 6px 6px 0 0;
+    /*box-shadow: 1px 12px 12px 12px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(0, 0, 0, 0.18);*/
+    box-shadow: none;
+    margin: 4px;
+}
