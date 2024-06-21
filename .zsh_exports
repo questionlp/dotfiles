@@ -1,3 +1,7 @@
+# Disable .NET Telemetry
+export DOTNET_CLI_TELEMETRY_OPTOUT=true
+
+# Homebrew
 if [[ $HOMEBREW_PREFIX && -d $HOMEBREW_PREFIX ]]; then
     # Set Homebrew package paths
     homebrew_paths=""
