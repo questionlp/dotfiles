@@ -1,0 +1,14 @@
+[Desktop Entry]
+DefaultProfile=Default Profile.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=
