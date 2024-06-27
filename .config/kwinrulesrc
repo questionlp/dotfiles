@@ -30,9 +30,17 @@ wmclass=\spinta
 wmclasscomplete=true
 wmclassmatch=1
 
+[93238483-38a5-4321-b004-dfdad4fe535a]
+Description=Application settings for firefox
+desktopfile=org.mozilla.firefox.desktop
+desktopfilerule=2
+wmclass=\sfirefox
+wmclasscomplete=true
+wmclassmatch=1
+
 [General]
-count=7
-rules=abee17d9-ecdd-412b-ae78-4085a6274c0f,6c6bf153-97b4-4d11-81f4-c7c00d1c0d38,488b0cfd-3f08-4d9a-bff8-59490e22bbd4,a32f9be0-df0c-4df6-9c0a-ea5dbd73c427,ccefe26a-7cd6-4bfc-ac84-3595ed6e346a,2fd79b5f-9396-4145-b0f6-07041142c1a7,535e3134-0eee-4864-9f76-4cd9ec8f942f
+count=8
+rules=93238483-38a5-4321-b004-dfdad4fe535a,abee17d9-ecdd-412b-ae78-4085a6274c0f,6c6bf153-97b4-4d11-81f4-c7c00d1c0d38,488b0cfd-3f08-4d9a-bff8-59490e22bbd4,a32f9be0-df0c-4df6-9c0a-ea5dbd73c427,ccefe26a-7cd6-4bfc-ac84-3595ed6e346a,2fd79b5f-9396-4145-b0f6-07041142c1a7,535e3134-0eee-4864-9f76-4cd9ec8f942f
 
 [a32f9be0-df0c-4df6-9c0a-ea5dbd73c427]
 Description=Application settings for Slack
