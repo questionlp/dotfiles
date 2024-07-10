@@ -1,5 +1,5 @@
 import = [
-    "~/.config/alacritty/theme_alabaster.toml"
+    "~/.config/alacritty/theme_lovelace.toml"
 ]
 
 live_config_reload = false
