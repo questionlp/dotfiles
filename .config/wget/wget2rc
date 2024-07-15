@@ -1,0 +1,2 @@
+no-http2
+max-threads=1
