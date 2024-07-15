@@ -2,7 +2,7 @@ import = [
     "~/.config/alacritty/theme_alabaster.toml"
 ]
 
-live_config_reload = false
+live_config_reload = true
 
 [shell]
 program = "/usr/bin/env"
@@ -26,7 +26,14 @@ size = 11
 style = { shape = "Block", blinking = "On" }
 
 [keyboard]
-bindings = [{ key = "N", mods = "Control | Shift", action = "CreateNewWindow" }]
+bindings = [
+	{ key = "N", mods = "Control | Shift", action = "CreateNewWindow" },
+	{ key = "N", mods = "Alt | Shift", action = "SpawnNewInstance" },
+	{ key = "L", mods = "Alt | Shift", action = "ClearHistory" },
+	{ key = "-", mods = "Control", action = "DecreaseFontSize" },
+	{ key = "+", mods = "Control | Shift", action = "IncreaseFontSize" },
+	{ key = "=", mods = "Control", action = "ResetFontSize" }
+]
 
 [[hints.enabled]]
 binding = { key = "U", mods = "Control|Shift" }
