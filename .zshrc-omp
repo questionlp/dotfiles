@@ -1,12 +1,8 @@
 # Set shell history
 export HISTFILE="$HOME/.zsh_history"
-export HISTSIZE=10000
-export SAVEHIST=10000
-setopt extendedhistory
-setopt appendhistory
-
-bindkey '\e[A' history-search-backward
-bindkey '\e[B' history-search-forward
+export HISTSIZE=50000
+export SAVEHIST=50000
+export HISTCONTROL=ignoredups
 
 # Enable Case Insensitive Tab Completion
 autoload -Uz +X compinit && compinit
@@ -15,10 +11,10 @@ autoload -Uz +X compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 zstyle ':completion:*' menu select
 
-
 # Initialize Oh My Posh
+export OMP_CONFIG="$HOME/.config/oh-my-posh"
 export OMP_THEME="qlp.toml"
-export OMP_THEME_PATH="$HOME/.config/oh-my-posh/${OMP_THEME}"
+export OMP_THEME_PATH="${OMP_CONFIG}/${OMP_THEME}"
 
 if [[ -f $OMP_THEME_PATH ]]; then
   if [[ -f "$HOME/.local/bin/oh-my-posh" ]]; then
@@ -36,6 +32,10 @@ else
   elif [[ -f "/usr/bin/oh-my-posh" ]]; then
     eval "$(/usr/bin/oh-my-posh init zsh)"
   fi
+fi
+
+if [[ -f $OMP_CONFIG/key-bindings.zsh ]]; then
+  source $OMP_CONFIG/key-bindings.zsh
 fi
 
 # Source additional zsh config files, if available
