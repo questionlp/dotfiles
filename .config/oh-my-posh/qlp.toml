@@ -90,7 +90,7 @@ version = 2
     type = 'text'
     style = 'plain'
     template = '┌─[ '
-    foreground = 'p:ibmPurple30'
+    foreground = 'p:ibmPurple50'
     background = 'transparent'
 
   [[blocks.segments]]
@@ -171,7 +171,7 @@ version = 2
     type = 'text'
     style = 'plain'
     template = ' ]─┐'
-    foreground = 'p:ibmPurple30'
+    foreground = 'p:ibmPurple50'
     background = 'transparent'
 
 
@@ -184,7 +184,7 @@ version = 2
     type = 'text'
     style = 'plain'
     template = '└─'
-    foreground = 'p:ibmPurple30'
+    foreground = 'p:ibmPurple50'
     background = 'transparent'
 
   [[blocks.segments]]
@@ -205,7 +205,7 @@ version = 2
     type = 'text'
     style = 'plain'
     template = '─┘'
-    foreground = 'p:ibmPurple30'
+    foreground = 'p:ibmPurple50'
     background = 'transparent'
 
 
