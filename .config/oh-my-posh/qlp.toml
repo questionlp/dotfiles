@@ -96,7 +96,7 @@ version = 2
   [[blocks.segments]]
     type = 'session'
     style = 'plain'
-    template = '{{ if .SSHSession }}({{ .UserName }}<p:ibmCyan40>@</>{{ .HostName }}){{ end }}'
+    template = '{{ if .SSHSession }}({{ .UserName }}<p:ibmCyan40>@</>{{ .HostName }}) {{ end }}'
     foreground = 'white'
     background = 'transparent'
 
