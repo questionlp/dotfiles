@@ -212,7 +212,7 @@ version = 2
 [transient_prompt]
   foreground_templates = [
       "{{ if gt .Code 0 }}p:ibmRed50{{ end }}",
-      "{{ if eq .Code 0 }}p:ibmGreen50  {{ end }}",
+      "{{ if eq .Code 0 }}p:ibmGreen50{{ end }}",
     ]
   background = 'transparent'
   template = '❯ '
