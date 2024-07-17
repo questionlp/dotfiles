@@ -19,7 +19,7 @@ blur = false
 [font]
 normal = { family = "Berkeley Mono Variable", style = "Regular" }
 bold = { style = "SemiBold" }
-size = 12
+size = 12.5
 
 [cursor]
 style = { shape = "Block", blinking = "On" }

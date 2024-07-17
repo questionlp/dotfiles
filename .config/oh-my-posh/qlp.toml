@@ -1,0 +1,222 @@
+#:schema https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json
+
+version = 2
+
+[palette]
+  ibmCyan100 =    '#061727'
+  ibmCyan90 =     '#012749'
+  ibmCyan80 =     '#003a6d'
+  ibmCyan70 =     '#00539a'
+  ibmCyan60 =     '#0072c3'
+  ibmCyan50 =     '#1192e8'
+  ibmCyan40 =     '#33b1ff'
+  ibmCyan30 =     '#82cfff'
+  ibmCyan20 =     '#bae6ff'
+  ibmCyan10 =     '#e5f6ff'
+
+  ibmBlue100 =    '#001141'
+  ibmBlue90 =     '#001d6c'
+  ibmBlue80 =     '#002d9c'
+  ibmBlue70 =     '#0043ce'
+  ibmBlue60 =     '#0f62fe'
+  ibmBlue50 =     '#4589ff'
+  ibmBlue40 =     '#78a9ff'
+  ibmBlue30 =     '#a6c8ff'
+  ibmBlue20 =     '#d0e2ff'
+  ibmBlue10 =     '#edf5ff'
+
+  ibmGreen100 =   '#071908'
+  ibmGreen90 =    '#022d0d'
+  ibmGreen80 =    '#044317'
+  ibmGreen70 =    '#0e6027'
+  ibmGreen60 =    '#198038'
+  ibmGreen50 =    '#24a148'
+  ibmGreen40 =    '#42be65'
+  ibmGreen30 =    '#6fdc8c'
+  ibmGreen20 =    '#a7f0ba'
+  ibmGreen10 =    '#defbe6'
+
+  ibmMagenta100 = '#2a0a18'
+  ibmMagenta90 =  '#510224'
+  ibmMagenta80 =  '#740937'
+  ibmMagenta70 =  '#9f1853'
+  ibmMagenta60 =  '#d02670'
+  ibmMagenta50 =  '#ee5396'
+  ibmMagenta40 =  '#ff7eb6'
+  ibmMagenta30 =  '#ffafd2'
+  ibmMagenta20 =  '#ffd6e8'
+  ibmMagenta10 =  '#fff0f7'
+
+  ibmRed100 =     '#2d0709'
+  ibmRed90 =      '#520408'
+  ibmRed80 =      '#750e13'
+  ibmRed70 =      '#a2191f'
+  ibmRed60 =      '#da1e28'
+  ibmRed50 =      '#fa4d56'
+  ibmRed40 =      '#ff8389'
+  ibmRed30 =      '#ffb3b8'
+  ibmRed20 =      '#ffd7d9'
+  ibmRed10 =      '#fff1f1'
+
+  ibmPurple100 =  '#1c0f30'
+  ibmPurple90 =   '#31135e'
+  ibmPurple80 =   '#491d8b'
+  ibmPurple70 =   '#6929c4'
+  ibmPurple60 =   '#8a3ffc'
+  ibmPurple50 =   '#a56eff'
+  ibmPurple40 =   '#be95ff'
+  ibmPurple30 =   '#d4bbff'
+  ibmPurple20 =   '#e8daff'
+  ibmPurple10 =   '#f6f2ff'
+
+  ibmTeal100 =    '#081a1c'
+  ibmTeal90 =     '#022b30'
+  ibmTeal80 =     '#004144'
+  ibmTeal70 =     '#005d5d'
+  ibmTeal60 =     '#007d79'
+  ibmTeal50 =     '#009d9a'
+  ibmTeal40 =     '#08bdba'
+  ibmTeal30 =     '#3ddbd9'
+  ibmTeal20 =     '#9ef0f0'
+  ibmTeal10 =     '#d9fbfb'
+
+
+[[blocks]]
+  type = 'prompt'
+  alignment = 'left'
+  newline = true
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    template = '┌─[ '
+    foreground = 'p:ibmPurple30'
+    background = 'transparent'
+
+  [[blocks.segments]]
+    type = 'session'
+    style = 'plain'
+    template = '{{ if .SSHSession }}({{ .UserName }}<p:ibmCyan40>@</>{{ .HostName }}){{ end }}'
+    foreground = 'white'
+    background = 'transparent'
+
+  [[blocks.segments]]
+    type = 'path'
+    style = 'plain'
+    template = '{{ .Path }} '
+    foreground = 'white'
+    background = 'transparent'
+
+    [blocks.segments.properties]
+      folder_separator_icon = '<p:ibmTeal40>/</>'
+      style = 'agnoster_short'
+      max_depth = 1
+
+  [[blocks.segments]]
+    type = 'git'
+    style = 'plain'
+    template = '<p:ibmBlue40>{{ .HEAD }}</>{{ if .Working.Changed }} W: {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} |{{ end }}{{ if .Staging.Changed }} S: {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }} St: {{ .StashCount }}{{ end }}'
+    foreground = 'white'
+    background = 'transparent'
+
+    [blocks.segments.properties]
+      fetch_status = true
+      commit_icon = '@'
+
+
+[[blocks]]
+  type = 'prompt'
+  alignment = 'right'
+
+  [[blocks.segments]]
+    type = 'python'
+    style = 'plain'
+    template = '{{ if .Error }}{{ .Error }}{{ else }}Py {{ .Full }}{{ if .Venv }} | {{ .Venv }}{{ end }}{{ end }}'
+    foreground = 'p:ibmGreen40'
+    background = 'transparent'
+
+    [blocks.segments.properties]
+      display_mode = 'always'
+      fetch_version = true
+      fetch_virtual_env = true
+
+  [[blocks.segments]]
+    type = 'ruby'
+    style = 'plain'
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}Rb {{ .Full }}{{ end }}'
+    foreground = 'p:ibmMagenta40'
+    background = 'transparent'
+
+  [[blocks.segments]]
+    type = 'node'
+    style = 'plain'
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}No {{ .Full }}{{ end }}'
+    foreground = 'p:ibmTeal40 '
+    background = 'transparent'
+
+
+  [[blocks.segments]]
+    type = 'executiontime'
+    style = 'plain'
+    template = ' {{ .FormattedMs }}'
+    foreground = 'white'
+    background = 'transparent'
+
+    [blocks.segments.properties]
+      always_enabled = false
+      style = 'round'
+      threshold = 1000
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    template = ' ]─┐'
+    foreground = 'p:ibmPurple30'
+    background = 'transparent'
+
+
+[[blocks]]
+  type = 'prompt'
+  alignment = 'left'
+  newline = false
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    template = '└─'
+    foreground = 'p:ibmPurple30'
+    background = 'transparent'
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    foreground_templates = [
+      "{{ if gt .Code 0 }}p:ibmRed50{{ end }}",
+      "{{ if eq .Code 0 }}p:ibmGreen50{{ end }}",
+    ]
+    background = 'transparent'
+    template = '❯ '
+
+
+[[blocks]]
+  type = 'rprompt'
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    template = '─┘'
+    foreground = 'p:ibmPurple30'
+    background = 'transparent'
+
+
+[transient_prompt]
+  foreground_templates = [
+      "{{ if gt .Code 0 }}p:ibmRed50{{ end }}",
+      "{{ if eq .Code 0 }}p:ibmGreen50  {{ end }}",
+    ]
+  background = 'transparent'
+  template = '❯ '
+
+[secondary_prompt]
+  background = 'transparent'
+  template = '❯❯ '

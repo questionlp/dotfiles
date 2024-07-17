@@ -1,0 +1,246 @@
+#:schema https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json
+
+version = 2
+final_space = true
+console_title_template = '{{ .Shell }} in {{ .Folder }}'
+
+[[blocks]]
+  type = 'prompt'
+  alignment = 'left'
+
+  [[blocks.segments]]
+    type = 'os'
+    style = 'diamond'
+    leading_diamond = '╭─'
+    template = ' {{ if .WSL }}WSL at {{ end }}{{.Icon}} '
+    background = '#d3d7cf'
+    foreground = '#000000'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+  [[blocks.segments]]
+    type = 'path'
+    style = 'powerline'
+    powerline_symbol = ''
+    template = '  {{ .Path }} '
+    background = '#3465a4'
+    foreground = '#e4e4e4'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      home_icon = '~'
+      style = 'full'
+
+  [[blocks.segments]]
+    type = 'git'
+    style = 'powerline'
+    powerline_symbol = ''
+    background_templates = ['{{ if or (.Working.Changed) (.Staging.Changed) }}#c4a000{{ end }}', '{{ if and (gt .Ahead 0) (gt .Behind 0) }}#f26d50{{ end }}', '{{ if gt .Ahead 0 }}#89d1dc{{ end }}', '{{ if gt .Behind 0 }}#4e9a06{{ end }}']
+    template = ' {{ .UpstreamIcon }}{{ .HEAD }}{{if .BranchStatus }} {{ .BranchStatus }}{{ end }}{{ if .Working.Changed }}  {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} |{{ end }}{{ if .Staging.Changed }}  {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }}  {{ .StashCount }}{{ end }} '
+    background = '#4e9a06'
+    foreground = '#000000'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      branch_icon = ' '
+      fetch_stash_count = true
+      fetch_status = true
+      fetch_upstream_icon = true
+
+[[blocks]]
+  type = 'prompt'
+  alignment = 'right'
+
+  [[blocks.segments]]
+    type = 'node'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }}  '
+    background = '#689f63'
+    foreground = '#ffffff'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      fetch_version = true
+
+  [[blocks.segments]]
+    type = 'go'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}  '
+    background = '#00acd7'
+    foreground = '#111111'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      fetch_version = true
+
+  [[blocks.segments]]
+    type = 'julia'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}  '
+    background = '#4063D8'
+    foreground = '#111111'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      fetch_version = true
+
+  [[blocks.segments]]
+    type = 'python'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}  '
+    background = '#FFDE57'
+    foreground = '#111111'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      display_mode = 'files'
+      fetch_virtual_env = false
+
+  [[blocks.segments]]
+    type = 'ruby'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}  '
+    background = '#AE1401'
+    foreground = '#ffffff'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      display_mode = 'files'
+      fetch_version = true
+
+  [[blocks.segments]]
+    type = 'azfunc'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} '
+    background = '#FEAC19'
+    foreground = '#ffffff'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      display_mode = 'files'
+      fetch_version = false
+
+  [[blocks.segments]]
+    type = 'aws'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    background_templates = ['{{if contains "default" .Profile}}#FFA400{{end}}', '{{if contains "jan" .Profile}}#f1184c{{end}}']
+    template = ' {{ .Profile }}{{ if .Region }}@{{ .Region }}{{ end }}  '
+    background = ''
+    foreground = '#ffffff'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      display_default = false
+
+  [[blocks.segments]]
+    type = 'root'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = '  '
+    background = '#ffff66'
+    foreground = '#111111'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+  [[blocks.segments]]
+    type = 'executiontime'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    template = ' {{ .FormattedMs }}  '
+    background = '#c4a000'
+    foreground = '#000000'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+  [[blocks.segments]]
+    type = 'status'
+    style = 'powerline'
+    powerline_symbol = ''
+    invert_powerline = true
+    background_templates = ['{{ if gt .Code 0 }}#cc2222{{ end }}']
+    template = ' {{ if gt .Code 0 }}{{ reason .Code }}{{ else }}{{ end }} '
+    background = '#000000'
+    foreground = '#d3d7cf'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+    [blocks.segments.properties]
+      always_enabled = true
+
+  [[blocks.segments]]
+    type = 'time'
+    style = 'diamond'
+    invert_powerline = true
+    trailing_diamond = '─╮'
+    template = ' {{ .CurrentDate | date .Format }}  '
+    background = '#d3d7cf'
+    foreground = '#000000'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+[[blocks]]
+  type = 'prompt'
+  alignment = 'left'
+  newline = true
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    template = '╰─'
+    background = ''
+    foreground = '#d3d7cf'
+    Text = ''
+    Duration = 0
+    NameLength = 0
+
+[[blocks]]
+  type = 'rprompt'
+
+  [[blocks.segments]]
+    type = 'text'
+    style = 'plain'
+    template = '─╯'
+    background = ''
+    foreground = '#d3d7cf'
+    Text = ''
+    Duration = 0
+    NameLength = 0
