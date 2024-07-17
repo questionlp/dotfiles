@@ -17,16 +17,16 @@ zstyle ':completion:*' menu select
 
 
 # Initialize Oh My Posh
-export OMP_CONFIG="$HOME/.config/oh-my-posh"
 export OMP_THEME="qlp.toml"
+export OMP_THEME_PATH="$HOME/.config/oh-my-posh/${OMP_THEME}"
 
 if [[ -f $OMP_THEME ]]; then
   if [[ -f "$HOME/.local/bin/oh-my-posh" ]]; then
-    eval "$(~/.local/bin/oh-my-posh init zsh --config $=OMP_CONFIG/$=OMP_THEME)"
+    eval "$(~/.local/bin/oh-my-posh init zsh --config $=OMP_THEME_PATH)"
   elif [[ -f "/usr/local/bin/oh-my-posh" ]]; then
-    eval "$(/usr/local/bin/oh-my-posh init zsh --config $=OMP_CONFIG/$=OMP_THEME)"
+    eval "$(/usr/local/bin/oh-my-posh init zsh --config $=OMP_THEME_PATH)"
   elif [[ -f "/usr/bin/oh-my-posh" ]]; then
-    eval "$(/usr/bin/oh-my-posh init zsh --config $=OMP_CONFIG/$=OMP_THEME)"
+    eval "$(/usr/bin/oh-my-posh init zsh --config $=OMP_THEME_PATH)"
   fi
 else
   if [[ -f "$HOME/.local/bin/oh-my-posh" ]]; then
