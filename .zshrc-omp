@@ -20,7 +20,7 @@ zstyle ':completion:*' menu select
 export OMP_THEME="qlp.toml"
 export OMP_THEME_PATH="$HOME/.config/oh-my-posh/${OMP_THEME}"
 
-if [[ -f $OMP_THEME ]]; then
+if [[ -f $OMP_THEME_PATH ]]; then
   if [[ -f "$HOME/.local/bin/oh-my-posh" ]]; then
     eval "$(~/.local/bin/oh-my-posh init zsh --config $=OMP_THEME_PATH)"
   elif [[ -f "/usr/local/bin/oh-my-posh" ]]; then
