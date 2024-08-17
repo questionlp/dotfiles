@@ -1,0 +1,47 @@
+import = [
+    "~/.config/alacritty/theme_lovelace.toml"
+]
+
+live_config_reload = true
+
+[shell]
+program = "/usr/bin/env"
+args = ["zsh", "-l"]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+dimensions = { columns = 110, lines = 50 }
+decorations_theme_variant = "Dark"
+opacity = 0.9
+blur = true
+
+[font]
+normal = { family = "Berkeley Mono Variable", style = "Regular" }
+bold = { style = "SemiBold" }
+size = 11
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+
+[keyboard]
+bindings = [
+	{ key = "N", mods = "Control | Shift", action = "CreateNewWindow" },
+	{ key = "N", mods = "Alt | Shift", action = "SpawnNewInstance" },
+	{ key = "L", mods = "Alt | Shift", action = "ClearHistory" },
+	{ key = "-", mods = "Control", action = "DecreaseFontSize" },
+	{ key = "+", mods = "Control | Shift", action = "IncreaseFontSize" },
+	{ key = "=", mods = "Control", action = "ResetFontSize" }
+]
+
+[[hints.enabled]]
+binding = { key = "U", mods = "Control|Shift" }
+command = "xdg-open"
+hyperlinks = true
+mouse.enabled = true
+mouse.mods = "Control"
+post_processing = true
+persist = false
+regex = "(ipfs:|ipns:|magnet:|mailto:|gemini://|gopher://|https://|http://|news:|file:|git://|ssh:|ftp://)[^\u0000-\u001F\u007F-\u009F<>\"\\s{-}\\^⟨⟩‘]+"
+
