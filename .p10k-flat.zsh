@@ -233,7 +233,7 @@
   typeset -g POWERLEVEL9K_DIR_SHORTENED_FOREGROUND=0
   # Color of the anchor directory segments. Anchor segments are never shortened. The first
   # segment is always an anchor.
-  typeset -g POWERLEVEL9K_DIR_ANCHOR_FOREGROUND=236
+  typeset -g POWERLEVEL9K_DIR_ANCHOR_FOREGROUND=0
   # Display anchor directory segments in bold.
   typeset -g POWERLEVEL9K_DIR_ANCHOR_BOLD=true
   # Don't shorten directories that contain any of these files. They are anchors.
@@ -532,7 +532,7 @@
   # it will signify error by turning red.
   typeset -g POWERLEVEL9K_STATUS_ERROR=true
   typeset -g POWERLEVEL9K_STATUS_ERROR_VISUAL_IDENTIFIER_EXPANSION='✘'
-  typeset -g POWERLEVEL9K_STATUS_ERROR_FOREGROUND=3
+  typeset -g POWERLEVEL9K_STATUS_ERROR_FOREGROUND=15
   typeset -g POWERLEVEL9K_STATUS_ERROR_BACKGROUND=1
 
   # Status when the last command was terminated by a signal.
@@ -540,7 +540,7 @@
   # Use terse signal names: "INT" instead of "SIGINT(2)".
   typeset -g POWERLEVEL9K_STATUS_VERBOSE_SIGNAME=false
   typeset -g POWERLEVEL9K_STATUS_ERROR_SIGNAL_VISUAL_IDENTIFIER_EXPANSION='✘'
-  typeset -g POWERLEVEL9K_STATUS_ERROR_SIGNAL_FOREGROUND=3
+  typeset -g POWERLEVEL9K_STATUS_ERROR_SIGNAL_FOREGROUND=15
   typeset -g POWERLEVEL9K_STATUS_ERROR_SIGNAL_BACKGROUND=1
 
   # Status when some part of a pipe command fails and the overall exit status is also non-zero.
@@ -552,7 +552,7 @@
 
   ###################[ command_execution_time: duration of the last command ]###################
   # Execution time color.
-  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FOREGROUND=0
+  typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_FOREGROUND=15
   typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_BACKGROUND=243
   # Show duration of the last command if takes at least this many seconds.
   typeset -g POWERLEVEL9K_COMMAND_EXECUTION_TIME_THRESHOLD=3
@@ -971,14 +971,14 @@
 
   ##################################[ context: user@hostname ]##################################
   # Context color when running with privileges.
-  typeset -g POWERLEVEL9K_CONTEXT_ROOT_FOREGROUND=1
-  typeset -g POWERLEVEL9K_CONTEXT_ROOT_BACKGROUND=0
+  typeset -g POWERLEVEL9K_CONTEXT_ROOT_FOREGROUND=15
+  typeset -g POWERLEVEL9K_CONTEXT_ROOT_BACKGROUND=1
   # Context color in SSH without privileges.
-  typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_FOREGROUND=3
-  typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_BACKGROUND=0
+  typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_FOREGROUND=15
+  typeset -g POWERLEVEL9K_CONTEXT_{REMOTE,REMOTE_SUDO}_BACKGROUND=1
   # Default context color (no privileges, no SSH).
-  typeset -g POWERLEVEL9K_CONTEXT_FOREGROUND=3
-  typeset -g POWERLEVEL9K_CONTEXT_BACKGROUND=0
+  typeset -g POWERLEVEL9K_CONTEXT_FOREGROUND=0
+  typeset -g POWERLEVEL9K_CONTEXT_BACKGROUND=225
 
   # Context format when running with privileges: user@hostname.
   typeset -g POWERLEVEL9K_CONTEXT_ROOT_TEMPLATE='%n@%m'
