@@ -141,6 +141,6 @@ fi
 
 # Android Emulator
 if [[ -d "$HOME/Android/Sdk/emulator" ]]; then
-    export PATH="$PATH:/Android/Sdk/emulator"
+    export PATH="$PATH:$HOME/Android/Sdk/emulator"
 fi
 
