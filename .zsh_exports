@@ -102,7 +102,7 @@ if [[ -d "$HOME/.local/bin" ]]; then
 fi
 
 if [[ -d "$HOME/.local/share/JetBrains/Toolbox/scripts" ]]; then
-	export PATH="$HOME/.local/share/JetBrains/Toolbox/scripts:$PATH"
+    export PATH="$HOME/.local/share/JetBrains/Toolbox/scripts:$PATH"
 fi
 
 if [[ -d "$HOME/scripts" ]]; then
@@ -136,6 +136,11 @@ esac
 
 # Go
 if [[ -d "$HOME/go/bin" ]]; then
-	export PATH="$HOME/go/bin:$PATH"
+    export PATH="$HOME/go/bin:$PATH"
+fi
+
+# Android Emulator
+if [[ -d "$HOME/Android/Sdk/emulator" ]]; then
+    export PATH="$PATH:/Android/Sdk/emulator"
 fi
 
