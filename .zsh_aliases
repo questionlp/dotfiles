@@ -24,3 +24,18 @@ if [[ $(uname) == "Linux" || $(uname) == "FreeBSD" ]]; then
         fi
     fi
 fi
+
+# Add several Flatpak application aliases
+FLATPAK_BIN="/var/lib/flatpak/exports/bin"
+## Only add Firefox Flatpak alias if Firefox system package is not installed
+if [[ ! -f "/usr/bin/firefox" && -f "${FLATPAK_BIN}/org.mozilla.firefox" ]]; then
+    alias firefox="org.mozilla.firefox"
+fi
+
+if [[ -f "${FLATPAK_BIN}/com.discordapp.Discord" ]]; then
+    alias discord="com.discordapp.Discord"
+fi
+
+if [[ -f "${FLATPAK_BIN}/com.slack.Slack" ]]; then
+    alias slack="com.slack.Slack"
+fi

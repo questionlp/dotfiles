@@ -101,12 +101,19 @@ if [[ -d "$HOME/.local/bin" ]]; then
     export PATH="$HOME/.local/bin:$PATH"
 fi
 
+# JetBrains Toolbox
 if [[ -d "$HOME/.local/share/JetBrains/Toolbox/scripts" ]]; then
     export PATH="$HOME/.local/share/JetBrains/Toolbox/scripts:$PATH"
 fi
 
+# Personal Scripts
 if [[ -d "$HOME/scripts" ]]; then
     export PATH="$HOME/scripts/:$PATH"
+fi
+
+# Flatpak
+if [[ -d "/var/lib/flatpak/exports/bin" ]]; then
+    export PATH="$PATH:/var/lib/flatpak/exports/bin"
 fi
 
 # nvm: Node Version Manager
