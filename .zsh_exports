@@ -146,8 +146,17 @@ if [[ -d "$HOME/go/bin" ]]; then
     export PATH="$HOME/go/bin:$PATH"
 fi
 
-# Android Emulator
+# Android SDK Emulator
 if [[ -d "$HOME/Android/Sdk/emulator" ]]; then
     export PATH="$PATH:$HOME/Android/Sdk/emulator"
 fi
 
+# Android SDK Tools
+if [[ -d "$HOME/Android/Sdk/platform-tools" ]]; then
+    export PATH="$PATH:$HOME/Android/Sdk/platform-tools"
+fi
+
+# Android SDK Vendor Keys
+if [[ -f "$HOME/.android/adbkey" ]]; then
+    export ADB_VENDOR_KEYS=$HOME/.android/adbkey
+fi
