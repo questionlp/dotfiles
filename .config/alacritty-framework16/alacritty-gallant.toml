@@ -5,7 +5,7 @@ import = [
 
 live_config_reload = true
 
-[shell]
+[terminal.shell]
 program = "/usr/bin/env"
 args = ["zsh", "-l"]
 
