@@ -1,0 +1,19 @@
+session_name: stark
+windows:
+  - window_name: Home
+    start_directory: $HOME
+  - window_name: Pod
+    start_directory: /Podcasts/_Temp
+  - window_name: Vid1
+    start_directory: /Videos
+  - window_name: Vid2
+    start_directory: /Videos
+  - window_name: Vid3
+    start_directory: /Videos
+  - window_name: Vid4
+    start_directory: /Videos
+  - window_name: Vid5
+    start_directory: /Videos
+  - window_name: Vid6
+    start_directory: /Videos
+
