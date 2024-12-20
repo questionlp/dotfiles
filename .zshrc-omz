@@ -110,6 +110,9 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+# Disable removing trailing slash in paths
+unsetopt AUTO_REMOVE_SLASH
+
 if [[ -f "$HOME/.zsh_exports" ]]; then
   source $HOME/.zsh_exports
 fi

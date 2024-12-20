@@ -19,3 +19,7 @@ source $ZSH/oh-my-zsh.sh
 # Starship
 export STARSHIP_CONFIG="$HOME/.config/starship/plain-text.toml"
 eval "$(starship init zsh)"
+
+# Disable removing trailing slash in paths
+unsetopt AUTO_REMOVE_SLASH
+

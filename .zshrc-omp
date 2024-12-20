@@ -38,6 +38,9 @@ if [[ -f $OMP_CONFIG/key-bindings.zsh ]]; then
   source $OMP_CONFIG/key-bindings.zsh
 fi
 
+# Disable removing trailing slash in paths
+unsetopt AUTO_REMOVE_SLASH
+
 # Source additional zsh config files, if available
 if [[ -f "$HOME/.zsh_exports" ]]; then
   source $HOME/.zsh_exports
