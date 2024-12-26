@@ -62,7 +62,7 @@ ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
 BackgroundAlternate=77,77,77
-BackgroundNormal=35,38,39
+BackgroundNormal=239,240,241
 DecorationFocus=61,174,233
 DecorationHover=147,206,233
 ForegroundActive=61,174,233
@@ -109,10 +109,10 @@ TitlebarIsAccentColored=true
 shadeSortColumn=true
 
 [KDE]
-contrast=5
+contrast=4
 
 [WM]
-activeBackground=71,80,87
+activeBackground=183,157,202
 activeBlend=252,252,252
 activeForeground=252,252,252
 inactiveBackground=239,240,241
