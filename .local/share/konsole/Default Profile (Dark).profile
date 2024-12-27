@@ -1,6 +1,6 @@
 [Appearance]
 ColorScheme=lovelace
-Font=Berkeley Mono,10.5,-1,5,50,0,0,0,0,0
+Font=TX-02,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [General]
 Command=/usr/bin/zsh --login

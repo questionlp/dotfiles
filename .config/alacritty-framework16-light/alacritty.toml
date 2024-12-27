@@ -18,7 +18,7 @@ opacity = 0.93
 blur = false
 
 [font]
-normal = { family = "Berkeley Mono Variable", style = "Regular" }
+normal = { family = "TX-02", style = "Regular" }
 bold = { style = "SemiBold" }
 size = 12
 

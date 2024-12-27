@@ -133,7 +133,7 @@ ForegroundVisited=155,89,182
 [General]
 ColorScheme=BreezeLight
 Name=Breeze Light (Modified)
-TitlebarIsAccentColored=true
+TitlebarIsAccentColored=false
 shadeSortColumn=true
 
 [KDE]

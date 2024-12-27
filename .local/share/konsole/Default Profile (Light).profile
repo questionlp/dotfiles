@@ -1,6 +1,6 @@
 [Appearance]
 ColorScheme=Alabaster
-Font=Berkeley Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Font=TX-02,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [General]
 Command=/usr/bin/zsh --login
