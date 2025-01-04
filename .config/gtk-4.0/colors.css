@@ -73,9 +73,9 @@
 @define-color theme_unfocused_view_text_color_breeze #a8a9a9;
 @define-color theme_view_active_decoration_color_breeze #a07cbc;
 @define-color theme_view_hover_decoration_color_breeze #a07cbc;
-@define-color tooltip_background_breeze #232627;
-@define-color tooltip_border_breeze #595c5c;
-@define-color tooltip_text_breeze #fcfcfc;
+@define-color tooltip_background_breeze #eff0f1;
+@define-color tooltip_border_breeze #bcbebf;
+@define-color tooltip_text_breeze #232627;
 @define-color unfocused_borders_breeze #bcbebf;
 @define-color unfocused_insensitive_borders_breeze #d2d4d6;
 @define-color warning_color_backdrop_breeze #f67400;
