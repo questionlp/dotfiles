@@ -116,18 +116,16 @@ if [[ -d "/var/lib/flatpak/exports/bin" ]]; then
     export PATH="$PATH:/var/lib/flatpak/exports/bin"
 fi
 
-# nvm: Node Version Manager
-if [[ -f "$HOME/.nvm/nvm.sh" ]]; then
-    export NVM_DIR="$HOME/.nvm"
-    [ -s "$HOME/.nvm/nvm.sh" ] && \. "$HOME/.nvm/nvm.sh"
-    [ -s "$HOME/.nvm/etc/bash_completion.d/nvm" ] && \. "$HOME/.nvm/etc/bash_completion.d/nvm"
-fi
-
-# nodenv: Node.js Version Manager
-if [[ -f "$HOME/.nodenv/bin/nodenv" ]]; then
+# If nvm and nodenv are installed, then only enable nodenv
+if ([[ -f "$HOME/.nvm/nvm.sh" ]] && [[ -f "$HOME/.nodenv/bin/nodenv" ]] || \
+    [[ ! -f "$HOME/.nvm/nvm.sh" ]] && [[ -f "$HOME/.nodenv/bin/nodenv" ]]); then
     export PATH="$HOME/.nodenv/bin:$PATH"
     eval "$(nodenv init - zsh)"
     [ -s "$HOME/.nodenv/completions/nodenv.zsh" ] && \. "$HOME/.nodenv/completions/nodenv.zsh"
+elif [[ -f "$HOME/.nvm/nvm.sh" ]]; then
+    export NVM_DIR="$HOME/.nvm"
+    [ -s "$HOME/.nvm/nvm.sh" ] && \. "$HOME/.nvm/nvm.sh"
+    [ -s "$HOME/.nvm/etc/bash_completion.d/nvm" ] && \. "$HOME/.nvm/etc/bash_completion.d/nvm"
 fi
 
 # rbenv: Ruby Version Management
