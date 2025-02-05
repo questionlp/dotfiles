@@ -28,12 +28,12 @@ style = { shape = "Block", blinking = "On" }
 
 [keyboard]
 bindings = [
-	{ key = "N", mods = "Control | Shift", action = "CreateNewWindow" },
-	{ key = "N", mods = "Alt | Shift", action = "SpawnNewInstance" },
-	{ key = "L", mods = "Alt | Shift", action = "ClearHistory" },
-	{ key = "-", mods = "Control", action = "DecreaseFontSize" },
-	{ key = "+", mods = "Control | Shift", action = "IncreaseFontSize" },
-	{ key = "=", mods = "Control", action = "ResetFontSize" }
+    { key = "N", mods = "Control | Shift", action = "CreateNewWindow" },
+    { key = "N", mods = "Alt | Shift", action = "SpawnNewInstance" },
+    { key = "L", mods = "Alt | Shift", action = "ClearHistory" },
+    { key = "-", mods = "Control", action = "DecreaseFontSize" },
+    { key = "+", mods = "Control | Shift", action = "IncreaseFontSize" },
+    { key = "=", mods = "Control", action = "ResetFontSize" }
 ]
 
 [[hints.enabled]]
