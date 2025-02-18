@@ -20,7 +20,7 @@ blur = false
 padding = { x = 1, y = 1 }
 
 [font]
-normal = { family = "TX-02", style = "Regular" }
+normal = { family = "Berkeley Mono", style = "Regular" }
 bold = { style = "SemiBold" }
 size = 10
 
