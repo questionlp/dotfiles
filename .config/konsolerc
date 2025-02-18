@@ -7,8 +7,5 @@ ConfigVersion=1
 [KonsoleWindow]
 RememberWindowSize=false
 
-[MainWindow]
-ToolBarsMovable=Disabled
-
 [UiSettings]
 ColorScheme=
