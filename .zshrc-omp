@@ -38,6 +38,8 @@ if [[ -f $OMP_CONFIG/key-bindings.zsh ]]; then
   source $OMP_CONFIG/key-bindings.zsh
 fi
 
+bindkey "^R" history-incremental-search-backward
+
 # Disable removing trailing slash in paths
 unsetopt AUTO_REMOVE_SLASH
 
