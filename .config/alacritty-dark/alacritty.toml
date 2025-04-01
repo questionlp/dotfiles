@@ -21,7 +21,7 @@ padding = { x = 1, y = 1 }
 [font]
 normal = { family = "Berkeley Mono", style = "Regular" }
 bold = { style = "SemiBold" }
-size = 10
+size = 11
 
 [cursor]
 style = { shape = "Block", blinking = "On" }
