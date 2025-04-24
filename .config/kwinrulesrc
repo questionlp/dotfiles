@@ -1,3 +1,10 @@
+[0ce2a58a-6795-43d9-918b-074c31ed8e27]
+Description=Application settings for gnome-connections
+desktopfile=org.gnome.Connections.desktop
+desktopfilerule=2
+wmclass=gnome-connections
+wmclassmatch=1
+
 [2da9ec38-73c5-4488-99d9-5d0103515622]
 Description=Application settings for authenticator
 desktopfile=com.yubico.yubioath.desktop
@@ -111,8 +118,8 @@ wmclass=gcr-viewer
 wmclassmatch=1
 
 [General]
-count=20
-rules=92a67e89-4bb3-41a3-9bb0-38f58c6ed1dc,d0699556-bf5f-4225-a98d-fbd639af7474,43848d40-89b8-466d-9025-d352adc34e42,6fbaaa6b-ee61-480a-a1e5-e41648f3a251,e3c09439-b5f8-4b55-8fcd-23d732a74d0d,bdeffe0c-2ee3-4266-9e6a-362f34415ca7,4bff22d1-663b-4b49-9825-14c3de0806ba,98f01e33-ed76-473f-a6e7-07b39368a7df,3710a10d-4ff2-4aac-bc41-ad5e7d8d2544,2da9ec38-73c5-4488-99d9-5d0103515622,6591c0e5-a634-4b63-b92f-c81c6a6c5aa1,351c2664-6fc6-4c8b-a48d-cf7ffa24a015,93238483-38a5-4321-b004-dfdad4fe535a,abee17d9-ecdd-412b-ae78-4085a6274c0f,6c6bf153-97b4-4d11-81f4-c7c00d1c0d38,488b0cfd-3f08-4d9a-bff8-59490e22bbd4,a32f9be0-df0c-4df6-9c0a-ea5dbd73c427,ccefe26a-7cd6-4bfc-ac84-3595ed6e346a,2fd79b5f-9396-4145-b0f6-07041142c1a7,535e3134-0eee-4864-9f76-4cd9ec8f942f
+count=21
+rules=0ce2a58a-6795-43d9-918b-074c31ed8e27,92a67e89-4bb3-41a3-9bb0-38f58c6ed1dc,d0699556-bf5f-4225-a98d-fbd639af7474,43848d40-89b8-466d-9025-d352adc34e42,6fbaaa6b-ee61-480a-a1e5-e41648f3a251,e3c09439-b5f8-4b55-8fcd-23d732a74d0d,bdeffe0c-2ee3-4266-9e6a-362f34415ca7,4bff22d1-663b-4b49-9825-14c3de0806ba,98f01e33-ed76-473f-a6e7-07b39368a7df,3710a10d-4ff2-4aac-bc41-ad5e7d8d2544,2da9ec38-73c5-4488-99d9-5d0103515622,6591c0e5-a634-4b63-b92f-c81c6a6c5aa1,351c2664-6fc6-4c8b-a48d-cf7ffa24a015,93238483-38a5-4321-b004-dfdad4fe535a,abee17d9-ecdd-412b-ae78-4085a6274c0f,6c6bf153-97b4-4d11-81f4-c7c00d1c0d38,488b0cfd-3f08-4d9a-bff8-59490e22bbd4,a32f9be0-df0c-4df6-9c0a-ea5dbd73c427,ccefe26a-7cd6-4bfc-ac84-3595ed6e346a,2fd79b5f-9396-4145-b0f6-07041142c1a7,535e3134-0eee-4864-9f76-4cd9ec8f942f
 
 [a32f9be0-df0c-4df6-9c0a-ea5dbd73c427]
 Description=Application settings for Slack
