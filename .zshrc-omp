@@ -1,3 +1,6 @@
+# Disable Oh My Zsh auto-update
+DISABLE_AUTO_UPDATE=true
+
 # Set shell history
 export HISTFILE="$HOME/.zsh_history"
 export HISTSIZE=50000
