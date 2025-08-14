@@ -1,11 +1,12 @@
 # Include generic settings
 source ~/.mutt/settings
 # Include color settings
-#source ~/.mutt/colors-purify
+source ~/.mutt/colors-purify
 #source ~/.mutt/colors-light
-source ~/.mutt/colors
+#source ~/.mutt/colors
 #source ~/.mutt/colors-new
 #source ~/.mutt/colors-solarized-dark256
+#source ~/.mutt/colors-solarized-light256
 # Include header settings
 source ~/.mutt/headers
 # Include mailboxes
