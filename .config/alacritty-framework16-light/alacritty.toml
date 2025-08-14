@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/theme_alabaster.toml"
+    "~/.config/alacritty-framework16-light/themes/themes/alabaster.toml"
 ]
 
 live_config_reload = true
@@ -19,7 +19,7 @@ blur = false
 padding = { x = 1, y = 1 }
 
 [font]
-normal = { family = "Berkeley Mono", style = "Regular" }
+normal = { family = "Berkeley Mono", style = "Text" }
 bold = { style = "SemiBold" }
 size = 12
 
@@ -35,6 +35,9 @@ bindings = [
     { key = "+", mods = "Control | Shift", action = "IncreaseFontSize" },
     { key = "=", mods = "Control", action = "ResetFontSize" }
 ]
+
+[debug]
+persistent_logging = true
 
 [[hints.enabled]]
 binding = { key = "U", mods = "Control|Shift" }

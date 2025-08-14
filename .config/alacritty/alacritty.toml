@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/theme_alabaster.toml"
+    "~/.config/alacritty/themes/themes/alabaster.toml"
 ]
 
 live_config_reload = true

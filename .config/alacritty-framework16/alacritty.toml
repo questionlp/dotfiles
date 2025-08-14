@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/theme_lovelace.toml"
+    "~/.config/alacritty-framework16/theme_lovelace.toml"
 ]
 
 live_config_reload = true
@@ -19,7 +19,7 @@ blur = false
 padding = { x = 1, y = 1 }
 
 [font]
-normal = { family = "Berkeley Mono", style = "Regular" }
+normal = { family = "Berkeley Mono", style = "Text" }
 bold = { style = "SemiBold" }
 size = 12
 

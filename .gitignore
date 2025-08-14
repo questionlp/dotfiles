@@ -25,9 +25,11 @@
 
 # Ignore GTK 3.0/4.0 Bookmarks
 .config/gtk-3.0/bookmarks
-.config/gtk-3.0-t14/bookmarks
+.config/gtk-3.0-light/bookmarks
+.config/gtk-3.0-small/bookmarks
 .config/gtk-4.0/bookmarks
-.config/gtk-4.0-t14/bookmarks
+.config/gtk-4.0-light/bookmarks
+.config/gtk-4.0-small/bookmarks
 
 # Ignore GTK 3.0/4.0 Assets and Window Decorations
 #.config/gtk-3.0/assets
