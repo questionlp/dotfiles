@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/theme_alabaster.toml"
+    "~/.config/alacritty/themes/themes/alabaster.toml"
 ]
 
 live_config_reload = true
@@ -20,9 +20,9 @@ blur = false
 padding = { x = 1, y = 1 }
 
 [font]
-normal = { family = "TX-02", style = "Regular" }
+normal = { family = "Berkeley Mono", style = "Regular" }
 bold = { style = "SemiBold" }
-size = 11
+size = 11 
 
 [cursor]
 style = { shape = "Block", blinking = "On" }

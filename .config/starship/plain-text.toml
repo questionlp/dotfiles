@@ -118,6 +118,10 @@ symbol = "guix "
 [hg_branch]
 symbol = "hg "
 
+[hostname]
+ssh_symbol = ""
+format = "[$ssh_symbol$hostname]($style) "
+
 [java]
 symbol = "java "
 
@@ -259,6 +263,9 @@ symbol = "typst "
 
 [terraform]
 symbol = "terraform "
+
+[username]
+format = "[$user]($style) on "
 
 [zig]
 symbol = "zig "

@@ -1,14 +1,11 @@
 [Desktop Entry]
-DefaultProfile=Default Profile (Light).profile
+DefaultProfile=Default Profile (Dark).profile
 
 [General]
 ConfigVersion=1
 
 [KonsoleWindow]
 RememberWindowSize=false
-
-[MainWindow]
-ToolBarsMovable=Disabled
 
 [UiSettings]
 ColorScheme=

@@ -1,3 +1,6 @@
+# Disable Oh My Zsh auto-update
+DISABLE_AUTO_UPDATE=true
+
 # Set shell history
 export HISTFILE="$HOME/.zsh_history"
 export HISTSIZE=50000
@@ -37,6 +40,8 @@ fi
 if [[ -f $OMP_CONFIG/key-bindings.zsh ]]; then
   source $OMP_CONFIG/key-bindings.zsh
 fi
+
+bindkey "^R" history-incremental-search-backward
 
 # Disable removing trailing slash in paths
 unsetopt AUTO_REMOVE_SLASH
