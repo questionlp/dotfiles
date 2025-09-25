@@ -165,3 +165,8 @@ fi
 if [[ -f "$HOME/.android/adbkey" ]]; then
     export ADB_VENDOR_KEYS=$HOME/.android/adbkey
 fi
+
+# Deno
+if [[ -f "$HOME/.deno/bin/deno" ]]; then
+    export PATH="$PATH:$HOME/.deno/bin"
+fi
