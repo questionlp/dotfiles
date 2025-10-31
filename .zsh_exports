@@ -121,7 +121,9 @@ if ([[ -f "$HOME/.nvm/nvm.sh" ]] && [[ -f "$HOME/.nodenv/bin/nodenv" ]] || \
     [[ ! -f "$HOME/.nvm/nvm.sh" ]] && [[ -f "$HOME/.nodenv/bin/nodenv" ]]); then
     export PATH="$HOME/.nodenv/bin:$PATH"
     eval "$(nodenv init - zsh)"
-    [ -s "$HOME/.nodenv/completions/nodenv.zsh" ] && \. "$HOME/.nodenv/completions/nodenv.zsh"
+    FPATH=$HOME/.nodenv/completions:"$FPATH"
+    autoload -U compinit
+    compinit
 elif [[ -f "$HOME/.nvm/nvm.sh" ]]; then
     export NVM_DIR="$HOME/.nvm"
     [ -s "$HOME/.nvm/nvm.sh" ] && \. "$HOME/.nvm/nvm.sh"
@@ -132,8 +134,14 @@ fi
 if [[ -f "$HOME/.rbenv/bin/rbenv" && -d "$HOMEBREW_PREFIX/opt/openssl" ]]; then
     eval "$($HOME/.rbenv/bin/rbenv init - zsh)"
     export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$HOMEBREW_PREFIX/opt/openssl"
+    FPATH=$HOME/.rbenv/completions:"$FPATH"
+    autoload -U compinit
+    compinit
 elif [[ -f "$HOME/.rbenv/bin/rbenv" ]]; then
     eval "$($HOME/.rbenv/bin/rbenv init - zsh)"
+    FPATH=$HOME/.rbenv/completions:"$FPATH"
+    autoload -U compinit
+    compinit
 fi
 
 # rustup: Rust Installer
