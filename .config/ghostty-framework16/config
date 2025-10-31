@@ -1,5 +1,5 @@
 app-notifications = false
-background-opacity = 0.93
+background-opacity = 0.9
 cursor-click-to-move = false
 cursor-style = block
 cursor-style-blink = true
