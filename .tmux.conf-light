@@ -7,7 +7,7 @@ unbind C-b
 # Send CTRL+a to application by pressing it twice
 bind C-a send-prefix
 
-set -g mouse on
+set -g mouse off
 # toggle mouse mode to allow mouse copy/paste
 # set mouse on with prefix m
 bind m \
