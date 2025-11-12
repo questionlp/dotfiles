@@ -1,0 +1,7 @@
+# Continue any interrupted downloads
+-i
+
+# EJS Remote Components
+--remote-components ejs:npm
+--remote-components ejs:github
+
