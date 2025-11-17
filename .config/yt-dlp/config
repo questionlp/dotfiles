@@ -1,0 +1,9 @@
+# Continue any interrupted downloads
+-i
+
+# Use Windows-friendly file names
+--windows-filenames
+
+# EJS Remote Components
+--remote-components ejs:npm
+--remote-components ejs:github

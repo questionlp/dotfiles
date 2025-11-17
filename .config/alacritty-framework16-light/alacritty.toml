@@ -22,6 +22,7 @@ padding = { x = 1, y = 1 }
 normal = { family = "Berkeley Mono", style = "Text" }
 bold = { style = "SemiBold" }
 size = 12
+offset = { x = -1, y = -1 }
 
 [cursor]
 style = { shape = "Block", blinking = "On" }

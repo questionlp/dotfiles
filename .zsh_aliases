@@ -1,13 +1,8 @@
 # yt-dlp Aliases
-alias yt="yt-dlp -i --mark-watched --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias ytyt="yt-dlp -i --mark-watched --cookies ~/_cookies/cookies.txt --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias ytec='yt-dlp -i --mark-watched --cookies ~/_cookies/cookies.txt -o "%(upload_date)s - %(title)s [%(id)s].%(ext)s" --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best'
-alias ytcs='yt-dlp --mark-watched --cookies ~/curiositystream.com-cookies.txt --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best -f "bv*[ext=mp4]+ba[ext=m4a][language=en]/b[ext=mp4] / bv*+ba/b"'
-
-#alias yt="yt-dlp -i --mark-watched --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-#alias ytyt="yt-dlp -i --extractor-args 'youtube:player-client=all' --mark-watched --cookies ~/_cookies/cookies.txt --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-#alias ytec='yt-dlp -i --extractor-args "youtube:player-client=all" --mark-watched --cookies ~/_cookies/cookies.txt -o "%(upload_date)s - %(title)s [%(id)s].%(ext)s" --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best'
-#alias ytcs='yt-dlp --mark-watched --cookies ~/curiositystream.com-cookies.txt --windows-filenames --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best -f "bv*[ext=mp4]+ba[ext=m4a][language=en]/b[ext=mp4] / bv*+ba/b"'
+alias yt="yt-dlp --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytyt="yt-dlp --cookies-from-browser firefox --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytec="yt-dlp --cookies-from-browser firefox  -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytpbs="yt-dlp --cookies-from-browser firefox --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best -f hls-multiple_audio_tracks-English+bestvideo"
 
 # Lynx
 alias lynx="lynx --lss=~/.config/lynx/lynx.lss"

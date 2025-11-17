@@ -8,7 +8,7 @@ wmclassmatch=1
 [1fa46c7e-6802-4c87-8ebc-956731b0eb6b]
 Description=Application settings for jetbrains-datagrip
 clientmachine=localhost
-noborderrule=2
+noborderrule=1
 wmclass=jetbrains-datagrip
 wmclassmatch=1
 
