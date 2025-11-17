@@ -178,3 +178,6 @@ fi
 if [[ -f "$HOME/.deno/bin/deno" ]]; then
     export PATH="$PATH:$HOME/.deno/bin"
 fi
+
+export QT_QPA_PLATFORMTHEME='gnome'
+

@@ -1,3 +1,6 @@
+# Set default terminal
+set -g default-terminal "tmux-256color"
+
 # Set to prefix to CTRL+a to match GNU Screen
 set -g prefix C-a
 
@@ -22,6 +25,7 @@ bind M \
 #set -g terminal-overrides 'xterm*:smcup@:rmcup@'
 #set -g terminal-overrides 'tmux*:smcup@:rmcup@'
 set -ga terminal-overrides ',*256color*:smcup@:rmcup@'
+set -ga terminal-overrides ',xterm-256color:RGB'
 
 # Disable visual bells
 set -g visual-activity off
@@ -64,4 +68,3 @@ unbind %
 
 # Add config reload binding
 bind r source-file $HOME/.tmux.conf
-
