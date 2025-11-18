@@ -180,4 +180,5 @@ if [[ -f "$HOME/.deno/bin/deno" ]]; then
 fi
 
 export QT_QPA_PLATFORMTHEME='gnome'
+export QT_STYLE_OVERRIDE=Adwaita-Dark
 
