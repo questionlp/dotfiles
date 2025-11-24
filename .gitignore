@@ -16,6 +16,7 @@
 
 # Ignore btop log files
 .config/btop/btop.log
+.config/btop-dark/btop.log
 
 # Ignore spaceship.zsh.zwc file
 .config/spaceship/spaceship.zsh.zwc
