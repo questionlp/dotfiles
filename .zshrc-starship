@@ -28,3 +28,5 @@ bindkey "^R" history-incremental-search-backward
 # Disable removing trailing slash in paths
 unsetopt AUTO_REMOVE_SLASH
 
+export ZLE_REMOVE_SUFFIX_CHARS=""
+
