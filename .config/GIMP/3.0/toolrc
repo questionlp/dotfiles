@@ -4,7 +4,7 @@
 
 (GimpToolGroup "tool group"
     (visible yes)
-    (active-tool "gimp-align-tool")
+    (active-tool "gimp-move-tool")
     (children
         (GimpToolInfo "gimp-move-tool"
             (icon-name "gimp-tool-move")
@@ -48,7 +48,7 @@
             (visible yes))))
 (GimpToolGroup "tool group"
     (visible yes)
-    (active-tool "gimp-rect-select-tool")
+    (active-tool "gimp-ellipse-select-tool")
     (children
         (GimpToolInfo "gimp-rect-select-tool"
             (icon-name "gimp-tool-rect-select")

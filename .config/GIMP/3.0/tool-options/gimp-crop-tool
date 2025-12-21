@@ -2,6 +2,8 @@
 
 (aspect-denominator 3638)
 (aspect-numerator 1809)
+(foreground
+    (color "R'G'B'A double" 32 "\0\0\0\140\252\270\344\77\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0))
 (pattern "Pine")
 
 # end of gimp-crop-tool options
