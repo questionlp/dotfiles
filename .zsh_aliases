@@ -1,9 +1,9 @@
 # yt-dlp Aliases
-alias yt="yt-dlp --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias ytyt="yt-dlp --cookies-from-browser firefox --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias ytytnp="yt-dlp --cookies-from-browser firefox --no-playlist --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias ytec="yt-dlp --cookies-from-browser firefox -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
-alias ytecnp="yt-dlp --cookies-from-browser firefox --no-playlist -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias yt="yt-dlp --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytyt="yt-dlp --cookies-from-browser firefox --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytytnp="yt-dlp --cookies-from-browser firefox --no-playlist --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytec="yt-dlp --cookies-from-browser firefox -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
+alias ytecnp="yt-dlp --cookies-from-browser firefox --no-playlist -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best"
 alias ytpbs="yt-dlp --cookies-from-browser firefox --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best -f hls-multiple_audio_tracks-English+bestvideo"
 
 # Lynx
