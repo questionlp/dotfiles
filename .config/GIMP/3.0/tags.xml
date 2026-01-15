@@ -1168,127 +1168,127 @@
   <resource identifier="external:${gimp_data_dir}/gradients/Yellow_Orange.ggr//Yellow Orange" checksum="c7f332150f1c1d8cb8100add34b0ef55">
   </resource>
 
-  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="a43368b172ba62d657f6d0f385d3e7b1">
+  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="23a1c719544490bcf5d5511273de5ab6">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="4267dab005105a5e0564cbf2dff26283">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="90c1b4571c3d0fbfa9daf5289c5a49e3">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="776ce5c906860d988f1f1daa241050af">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="6496f31fb96e2c17a802f1ffb6ed6692">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="90b1a6af47764aa311fb0000a0496280">
+  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="623089c3584717b4a4ccddff9a631205">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="b270191648b50c63b807d75891252585">
+  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="237c2b504f4b640f9f80851945304587">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="5f87ac0552078a4e6987842abeda0a62">
+  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="7ce215469f253be83ab6f6fff44eef7d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="9dd23a2c6b69fb394b9690d2d98efb4a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="75adced8362320430326a8481422a3cd">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="d1e245028f47e351138119468c56cc32">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="5b243f968322b4ea6359cb8b7eea0376">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="954de687b78b0227f5527e132b1d0d3b">
+  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="c6158c40e12156e0085170cbb7f90abc">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="16e5de29eba8a5afc0b64f0aa043c984">
+  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="5cfb96947fb20f41817eb8467e64511c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="3e5d274f506a30e86434844c5421b8a1">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="634040fcbc061c85bdb4e8a2d4b12b79">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="6b9199fde3009205a3296c4d0296ba85">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="3705238c0c649424f92a2f55d5454184">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="e79092e030de63b8aea22a5928a7142a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="9f58f25c589aa73a0c0a7c66643d873f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="0ff26b477c91880ba46bea8ebed9ad2c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="1a680ab019847a063ed8e19a9094ae2d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="8e3992dca9e48a9ca2bdc1dd2c5e5ba4">
+  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="e56c40169e351edfa50d3b18246478cc">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="31fc34445cc08d57297d397acbe6f45b">
+  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="80e03a35f56bdb29e263184b1f0058aa">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="d1075a8fd38bb4a26f0fde2cba69adac">
+  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="e30890353acae05b2712f17b7325c39c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="a28c975df3a6e58b1c36c637f5b2df83">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="e3cb9445d709a9751e0b0ae0eb7f5e19">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="a4df5a211ea084031f313290384cc24e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="783ce0db0bc8a9a3ef3a9734e9ac2dc9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="359eed7b67fc8fd5faff0ee9c45ea9a2">
+  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="20d1b42dafcdebc8a9eaae06078b05b8">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="439ba7e08d8331769059e15a8644edd2">
+  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="946e1be0e25d12960914db6f74d07f45">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="62dc777cb3aa38f21d0a583e29bab72d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="4190d3e07ad32b1ee068f1514d792dd9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="3892008faf51975e5eb8ec38d0fa2ea8">
+  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="0f82f240a4934fd391e21c26077fc036">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="308cde3c631edb2103a04e619caa0f49">
+  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="b798f21807df41a40794eaf7b0b5c862">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="03162aa5eb6c1497100238a07a030141">
+  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="db3bbd071bc01364252aa449c9a42f2f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="7e9c4fc0d4d733bb4ce8a43cf2427b19">
+  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="5bb10336d78248fe9f9c5601fbbec26d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="514fbb610a8681ea7d8158678a49629b">
+  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="bdc7419e044c39a0ed0f4d7432eb64d1">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="106a1804ed5cc8d18a8f565eab11c25b">
+  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="f72c61f3d54d96c83abe7dbe8746534e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="5e96fb372824faa039a3e230c581fc04">
+  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="497febf03846099a7e432df157689014">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="54a308a0bcde10eeef6160a99641e700">
+  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="f339370c8d96b89b3f7a07c8fc2a5667">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="846cd55aaed7cee458702b2c564293bf">
+  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="fffe3ed436e6e4e28c383021e29f5d74">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="505f0f6ed28c8c10276a1969a6ad9082">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="e7bca77574f263decb111c560bc607ae">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="de277fadb6dff10ccc8dabe3b28a5bf2">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="28208982114a977c48695e9424aeb11d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="b9bf729f717d6c8fa1b50b8301c879f5">
+  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="72fc1b930908165c1016f3f68f7a6dbd">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="b01a98bd02f79830fbeb0f4bc7fc2729">
+  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="f4e96e23399c13c60b66067794ef85fa">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="32c7e27ff9b8c11b930d52d01270487d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="a6995b7c8ab12c951cf5602a99b697a7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="1f54def7b747514c397bc3cafeeaf34f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="828c6503096092c0032dbeb10ab9af7c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="b1f955ee079dd07847ee6dc7128986a2">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="410bdab5380a70fbaa7bcefa307e8190">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="cb2bd8dd51a4c884f9fbdb2ff036667d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="0fffbb80c53143320e6995d3e124605e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="d9c1ce5060fda04d73b7d670ef773b6a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="60833b7266555445da34e280e499dae1">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="472b0a76da2774ffa858d0ddf7cacf49">
+  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="8849dadc4b9a6350fb79efeacee368ef">
   </resource>
 
   <resource identifier="internal:gimp-font-standard-alias: Monospace//Monospace" checksum="(null)">
@@ -1540,6 +1540,60 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/andika/Andika-Regular.ttf//Andika Regular" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-VariableFont_wdth,wght.ttf//Archivo Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/archivo/Archivo-Italic-VariableFont_wdth,wght.ttf//Archivo Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/microsoft/core-fonts/ariblk.ttf//Arial Black Regular" checksum="(null)">
   </resource>
 
@@ -1553,6 +1607,60 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/microsoft/core-fonts/arial.ttf//Arial Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap[wdth,wght].ttf//Asap Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/asap/Asap-Italic[wdth,wght].ttf//Asap Thin Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/atkinson-hyperlegible/atkinson-hyperlegible/Atkinson-Hyperlegible-Bold-102.otf//Atkinson Hyperlegible Bold" checksum="(null)">
@@ -1673,6 +1781,9 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/polarsys/b612/B612-Regular.ttf//B612 Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/ballet/Ballet-Regular-VariableFont_opsz.ttf//Ballet Regular" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black.otf//Berkeley Mono Black" checksum="(null)">
@@ -2788,6 +2899,168 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/microsoft/cascadia-code/CascadiaMonoItalic.ttf//Cascadia Mono SemiLight Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono[wght].ttf//Chivo Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo-mono/ChivoMono-Italic[wght].ttf//Chivo Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo[wght].ttf//Chivo Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/chivo/Chivo-Italic[wght].ttf//Chivo Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Black.otf//Clack Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-BlackItalic.otf//Clack Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Bold.otf//Clack Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-BoldItalic.otf//Clack Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Extrabold.otf//Clack Extrabold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-ExtraboldItalic.otf//Clack Extrabold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Extralight.otf//Clack Extralight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-ExtralightItalic.otf//Clack Extralight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Light.otf//Clack Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-LightItalic.otf//Clack Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Medium.otf//Clack Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-MediumItalic.otf//Clack Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Regular.otf//Clack Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-RegularItalic.otf//Clack Regular Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Semibold.otf//Clack Semibold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-SemiboldItalic.otf//Clack Semibold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-Thin.otf//Clack Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/clack/Clack-ThinItalic.otf//Clack Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/fonts/aajohan-comfortaa-fonts/Comfortaa-Bold.otf//Comfortaa Bold" checksum="(null)">
   </resource>
 
@@ -3122,6 +3395,42 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/e-ukraine/e-Ukraine-UltraLight.otf//e-Ukraine UltraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-VariableFont_wght.ttf//Faustina Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-Italic-VariableFont_wght.ttf//Faustina Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-VariableFont_wght.ttf//Faustina ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-Italic-VariableFont_wght.ttf//Faustina ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-Italic-VariableFont_wght.ttf//Faustina Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-VariableFont_wght.ttf//Faustina Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-Italic-VariableFont_wght.ttf//Faustina Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-VariableFont_wght.ttf//Faustina Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-Italic-VariableFont_wght.ttf//Faustina Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-VariableFont_wght.ttf//Faustina Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-VariableFont_wght.ttf//Faustina SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/faustina/Faustina-Italic-VariableFont_wght.ttf//Faustina SemiBold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/fira/fira-code/FiraCode-Bold.ttf//Fira Code Bold" checksum="(null)">
@@ -3532,6 +3841,9 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/fira/fira-sans/Normal/Italic/FiraSans-UltraLightItalic.ttf//Fira Sans UltraLight Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/folsom/folsom-black.otf//Folsom Black" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/usr/share/fonts/gnu-free/FreeMonoBold.ttf//FreeMono Bold" checksum="(null)">
   </resource>
 
@@ -3653,6 +3965,96 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/go/Go-Smallcaps.ttf//Go Smallcaps Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/graph/Graph-Black.otf//Graph Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/graph/Graph-Bold.otf//Graph Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/graph/GraphCondensed-Bold.otf//Graph Condensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/graph-ff-condensed/graph-ff-condensed-black.otf//Graph FF Condensed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/graph/GraphParis-Black.otf//Graph Paris Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/graph/GraphParisCondensed-Bold.otf//Graph Paris Condensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/grenze-gotisch/GrenzeGotisch-VariableFont_wght.ttf//Grenze Gotisch Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve 100" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve 300" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve 500" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve 900" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Condensed 100" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Condensed 300" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Condensed 500" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Condensed 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Condensed 900" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Expanded 100" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Expanded 300" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Expanded 500" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Expanded 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/greve/greve-variable.ttf//Greve Expanded 900" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/ibm-plex/ibm-plex-math/IBMPlexMath-Regular.otf//IBM Plex Math Regular" checksum="(null)">
@@ -5902,6 +6304,123 @@
   <resource identifier="external:/run/host/fonts/jomolhari-fonts/Jomolhari-alpha3c-0605331.ttf//Jomolhari Regular" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/katwijk-mono/KatwijkMono-Black.otf//Katwijk Mono Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/katwijk-mono/KatwijkMono-Bold.otf//Katwijk Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/katwijk-mono/KatwijkMono-Light.otf//Katwijk Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/katwijk-mono/KatwijkMono-Regular.otf//Katwijk Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Bold.otf//Klima Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-BoldItalic.otf//Klima Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Heavy.otf//Klima Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-HeavyItalic.otf//Klima Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-RegularItalic.otf//Klima Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Light.otf//Klima Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-LightItalic.otf//Klima Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Medium.otf//Klima Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-MediumItalic.otf//Klima Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Regular.otf//Klima Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Ultra.otf//Klima Ultra" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-UltraItalic.otf//Klima Ultra Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-Ultralight.otf//Klima Ultralight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/klima/Klima-UltralightItalic.otf//Klima Ultralight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada[wght].ttf//Labrada Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/labrada/Labrada-Italic[wght].ttf//Labrada Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/lekton/Lekton-Bold.ttf//Lekton Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/lekton/Lekton-Italic.ttf//Lekton Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/lekton/Lekton-Regular.ttf//Lekton Regular" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/fonts/liberation-mono-fonts/LiberationMono-Bold.ttf//Liberation Mono Bold" checksum="(null)">
   </resource>
 
@@ -6269,6 +6788,138 @@
   </resource>
 
   <resource identifier="external:/run/host/fonts/madan-fonts/madan.ttf//Madan Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-VariableFont_wght.ttf//Manuale Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-Italic-VariableFont_wght.ttf//Manuale Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-VariableFont_wght.ttf//Manuale ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-Italic-VariableFont_wght.ttf//Manuale ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-Italic-VariableFont_wght.ttf//Manuale Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-VariableFont_wght.ttf//Manuale Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-Italic-VariableFont_wght.ttf//Manuale Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-VariableFont_wght.ttf//Manuale Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-Italic-VariableFont_wght.ttf//Manuale Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-VariableFont_wght.ttf//Manuale Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-VariableFont_wght.ttf//Manuale SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/manuale/Manuale-Italic-VariableFont_wght.ttf//Manuale SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-Bold.ttf//Maple Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-BoldItalic.ttf//Maple Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-ExtraBold.ttf//Maple Mono ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-ExtraBoldItalic.ttf//Maple Mono ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-ExtraLight.ttf//Maple Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-ExtraLightItalic.ttf//Maple Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-Italic.ttf//Maple Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-Light.ttf//Maple Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-LightItalic.ttf//Maple Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-Medium.ttf//Maple Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-MediumItalic.ttf//Maple Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-Bold.ttf//Maple Mono NF Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-BoldItalic.ttf//Maple Mono NF Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-ExtraBold.ttf//Maple Mono NF ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-ExtraBoldItalic.ttf//Maple Mono NF ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-ExtraLight.ttf//Maple Mono NF ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-ExtraLightItalic.ttf//Maple Mono NF ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-Italic.ttf//Maple Mono NF Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-Light.ttf//Maple Mono NF Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-LightItalic.ttf//Maple Mono NF Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-Medium.ttf//Maple Mono NF Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-MediumItalic.ttf//Maple Mono NF Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-Regular.ttf//Maple Mono NF Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-SemiBold.ttf//Maple Mono NF SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-SemiBoldItalic.ttf//Maple Mono NF SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-Thin.ttf//Maple Mono NF Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-NF-ThinItalic.ttf//Maple Mono NF Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-Regular.ttf//Maple Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-SemiBold.ttf//Maple Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-SemiBoldItalic.ttf//Maple Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-Thin.ttf//Maple Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/maple-mono/MapleMono-ThinItalic.ttf//Maple Mono Thin Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/microsoft/office/MEIRYOB.TTC//Meiryo Bold" checksum="(null)">
@@ -8869,6 +9520,81 @@
   <resource identifier="external:/run/host/fonts/julietaula-montserrat-fonts/Montserrat-ThinItalic.otf//Montserrat Thin Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/mort/mort-variable.ttf//Mort Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-VariableFont_wght.ttf//MuseoModerno Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/museo-moderno/MuseoModerno-Italic-VariableFont_wght.ttf//MuseoModerno Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/nebula/NebulaSans-Black.ttf//Nebula Sans Black" checksum="(null)">
   </resource>
 
@@ -10567,6 +11293,81 @@
   <resource identifier="external:/run/host/fonts/rit-rachana-fonts/RIT-Rachana-Regular.otf//RIT Rachana Regular" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-VariableFont_wdth,wght.ttf//Saira Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/saira/Saira-Italic-VariableFont_wdth,wght.ttf//Saira Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/sansita-swashed/SansitaSwashed-VariableFont_wght.ttf//Sansita Swashed SemiBold" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/selawik/selawkb.ttf//Selawik Bold" checksum="(null)">
   </resource>
 
@@ -10580,6 +11381,150 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/selawik/selawksl.ttf//Selawik Semilight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Bold.otf//Shantell Sans Bouncy Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Bold_Italic.otf//Shantell Sans Bouncy Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_ExtraBold.otf//Shantell Sans Bouncy ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_ExtraBold_Italic.otf//Shantell Sans Bouncy ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Regular_Italic.otf//Shantell Sans Bouncy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Light.otf//Shantell Sans Bouncy Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Light_Italic.otf//Shantell Sans Bouncy Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Medium.otf//Shantell Sans Bouncy Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Medium_Italic.otf//Shantell Sans Bouncy Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_Regular.otf//Shantell Sans Bouncy Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_SemiBold.otf//Shantell Sans Bouncy SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Bouncy_SemiBold_Italic.otf//Shantell Sans Bouncy SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bold.otf//Shantell Sans Informal Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bold_Italic.otf//Shantell Sans Informal Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Bold.otf//Shantell Sans Informal Bouncy Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Bold_Italic.otf//Shantell Sans Informal Bouncy Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_ExtraBold.otf//Shantell Sans Informal Bouncy ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_ExtraBold_Italic.otf//Shantell Sans Informal Bouncy ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Regular_Italic.otf//Shantell Sans Informal Bouncy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Light.otf//Shantell Sans Informal Bouncy Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Light_Italic.otf//Shantell Sans Informal Bouncy Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Medium.otf//Shantell Sans Informal Bouncy Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Medium_Italic.otf//Shantell Sans Informal Bouncy Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_Regular.otf//Shantell Sans Informal Bouncy Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_SemiBold.otf//Shantell Sans Informal Bouncy SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Bouncy_SemiBold_Italic.otf//Shantell Sans Informal Bouncy SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_ExtraBold.otf//Shantell Sans Informal ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_ExtraBold_Italic.otf//Shantell Sans Informal ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Regular_Italic.otf//Shantell Sans Informal Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Light.otf//Shantell Sans Informal Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Light_Italic.otf//Shantell Sans Informal Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Medium.otf//Shantell Sans Informal Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Medium_Italic.otf//Shantell Sans Informal Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_Regular.otf//Shantell Sans Informal Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_SemiBold.otf//Shantell Sans Informal SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Informal_SemiBold_Italic.otf//Shantell Sans Informal SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Bold.otf//Shantell Sans Normal Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Bold_Italic.otf//Shantell Sans Normal Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-ExtraBold.otf//Shantell Sans Normal ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-ExtraBold_Italic.otf//Shantell Sans Normal ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Regular_Italic.otf//Shantell Sans Normal Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Light.otf//Shantell Sans Normal Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Light_Italic.otf//Shantell Sans Normal Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Medium.otf//Shantell Sans Normal Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Medium_Italic.otf//Shantell Sans Normal Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-Regular.otf//Shantell Sans Normal Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-SemiBold.otf//Shantell Sans Normal SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/shantell-sans/Shantell_Sans-Normal-SemiBold_Italic.otf//Shantell Sans Normal SemiBold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/adobe/source-code-pro/SourceCodePro-Black.ttf//Source Code Pro Black" checksum="(null)">
@@ -11023,6 +11968,60 @@
   <resource identifier="external:/usr/share/fonts/tex-gyre/texgyretermes-regular.otf//TeX Gyre Termes Regular" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-VariableFont_opsz,wght.ttf//Texturina Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/texturina/Texturina-Italic-VariableFont_opsz,wght.ttf//Texturina Thin Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/microsoft/core-fonts/timesbd.ttf//Times New Roman Bold" checksum="(null)">
   </resource>
 
@@ -11111,6 +12110,105 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/microsoft/core-fonts/trebuc.ttf//Trebuchet MS Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/omnibus-type/trunculenta/Truculenta-VariableFont_opsz,wdth,wght.ttf//Truculenta Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Compressed 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Compressed 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Compressed 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Condensed 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Condensed 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Condensed 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Expanded 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Expanded 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Expanded 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Standard 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Standard 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Standard 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Wide 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Wide 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic Wide 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic X-Compressed 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic X-Compressed 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic X-Compressed 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic X-Wide 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic X-Wide 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic X-Wide 700" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic XX-Wide 1000" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic XX-Wide 400" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts/union-gothic/union_gothic-variable.ttf//Union Gothic XX-Wide 700" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/fonts/urw-base35/URWBookman-Demi.otf//URW Bookman Demi" checksum="(null)">

@@ -1,10 +1,10 @@
 # GIMP user context
 
-(tool "gimp-bucket-fill-tool")
-(paint-info "gimp-paintbrush")
+(tool "gimp-clone-tool")
+(paint-info "gimp-clone")
 (foreground
     (color "R'G'B'A double" 32 "\0\0\0\0\253\270\344\77\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0))
-(brush "2. Hardness 050")
+(brush "1. Pixel")
 (dynamics "Pressure Size")
 (mybrush "100% Opaque")
 (pattern "Pine")
