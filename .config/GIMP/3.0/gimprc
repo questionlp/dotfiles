@@ -7,7 +7,7 @@
 # Preferences dialog.
 
 (prev-language "American English")
-(config-version "3.0.6")
+(config-version "3.0.8")
 (default-image
     (icon-name "gimp-display")
     (width 3840)

@@ -1,7 +1,7 @@
 # GIMP gimp-vector-tool options
 
 (foreground
-    (color "R'G'B'A double" 32 "\0\0\0\0\253\270\344\77\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0))
+    (color "R'G'B'A u8" 4 "\56\20V\377" 0))
 (brush "1. Pixel")
 (dynamics "Pressure Size")
 (pattern "Pine")

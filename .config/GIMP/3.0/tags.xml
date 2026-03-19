@@ -1168,127 +1168,127 @@
   <resource identifier="external:${gimp_data_dir}/gradients/Yellow_Orange.ggr//Yellow Orange" checksum="c7f332150f1c1d8cb8100add34b0ef55">
   </resource>
 
-  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="23a1c719544490bcf5d5511273de5ab6">
+  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="58699a2a015c12120c071f5473143ff2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="90c1b4571c3d0fbfa9daf5289c5a49e3">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="805113e6b9d246b855882eb6a3fbba7c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="6496f31fb96e2c17a802f1ffb6ed6692">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="c4c39522a0698f1f896ad944efdf0981">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="623089c3584717b4a4ccddff9a631205">
+  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="1699cb8a0a47700cd9787e6d2fd3002a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="237c2b504f4b640f9f80851945304587">
+  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="ffd04bb3b353769d630185440dc19204">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="7ce215469f253be83ab6f6fff44eef7d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="7e6caeafc4332dff7d039459833044f5">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="75adced8362320430326a8481422a3cd">
+  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="8d04bcd1418407ec574c3cf99514e6b2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="5b243f968322b4ea6359cb8b7eea0376">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="a36c5872839bd8dcd3bbb4b201419179">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="c6158c40e12156e0085170cbb7f90abc">
+  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="36bb2a0f3d9b386c3daff70245b6703e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="5cfb96947fb20f41817eb8467e64511c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="3c82c8a491bd3f173129aab207cf1b0d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="634040fcbc061c85bdb4e8a2d4b12b79">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="6ee29eade1c6549bd535e7603e42e6e2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="3705238c0c649424f92a2f55d5454184">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="4dbf07ed5d489d940879e0921b814ec5">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="9f58f25c589aa73a0c0a7c66643d873f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="3c1149bac9cf7792f4555c416c6a4948">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="1a680ab019847a063ed8e19a9094ae2d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="6c09681b814765e7bcd2f6da4d17bc28">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="e56c40169e351edfa50d3b18246478cc">
+  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="47c6e7a25143cf82818b46bbd3d7c44c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="80e03a35f56bdb29e263184b1f0058aa">
+  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="ecf5148120b4afdc0dd12e975377fd1c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="e30890353acae05b2712f17b7325c39c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="ca6b133d72e6fb68f251ef0d21b61964">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="e3cb9445d709a9751e0b0ae0eb7f5e19">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="9da8986e9622a8668fd7c597992abe49">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="783ce0db0bc8a9a3ef3a9734e9ac2dc9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="512c4b2a5b0ebd431c158904090ad465">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="20d1b42dafcdebc8a9eaae06078b05b8">
+  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="4670515cf7cbfd2a7826593209b644b4">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="946e1be0e25d12960914db6f74d07f45">
+  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="2455e72dd69651bf80f3cc7db1ac0ce9">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="4190d3e07ad32b1ee068f1514d792dd9">
+  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="b556f433760fbc770642610f49808c66">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="0f82f240a4934fd391e21c26077fc036">
+  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="4028409b605a658ea3f4747184b5213e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="b798f21807df41a40794eaf7b0b5c862">
+  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="40187a077d4c82a9d495acb513b47bc3">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="db3bbd071bc01364252aa449c9a42f2f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="5ec043348407c099089617394777efab">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="5bb10336d78248fe9f9c5601fbbec26d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="ae4a42b136df85210d187f8e5c075802">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="bdc7419e044c39a0ed0f4d7432eb64d1">
+  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="b8ba13b7a2a710801b7e733a22cba618">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="f72c61f3d54d96c83abe7dbe8746534e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="9dedd1be8e21d22f997acc06e373b22f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="497febf03846099a7e432df157689014">
+  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="6b36a1179cb5bc37649836244adb3349">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="f339370c8d96b89b3f7a07c8fc2a5667">
+  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="0733565c4074cc7b992f5a160ddd1ab6">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="fffe3ed436e6e4e28c383021e29f5d74">
+  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="124fbeb99a857cb3c7f5b8d0ee7c50e8">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="e7bca77574f263decb111c560bc607ae">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="61fb89b37d650662ba82765643464be0">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="28208982114a977c48695e9424aeb11d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="283d327ade09e341aa2daf933591c2e2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="72fc1b930908165c1016f3f68f7a6dbd">
+  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="aa03b382f69127246aad449ea6181b7a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="f4e96e23399c13c60b66067794ef85fa">
+  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="03fe37403657b5d5a5c563f726c3b44a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="a6995b7c8ab12c951cf5602a99b697a7">
+  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="a7965c2eaf2984f2ca18ff79137baa7f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="828c6503096092c0032dbeb10ab9af7c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="3d8d8fba535e0063219fdfdf1df15b21">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="410bdab5380a70fbaa7bcefa307e8190">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="4b5655c4045d62a192caf8b6e3020163">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="0fffbb80c53143320e6995d3e124605e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="b7eda2c092c35c2198d8c8f12f1fb2ab">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="60833b7266555445da34e280e499dae1">
+  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="88cd822213348411f41f2c90094b3f38">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="8849dadc4b9a6350fb79efeacee368ef">
+  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="359fd8d472c5a9a8aa6c7bbba468f763">
   </resource>
 
   <resource identifier="internal:gimp-font-standard-alias: Monospace//Monospace" checksum="(null)">
@@ -1789,10 +1789,22 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black.otf//Berkeley Mono Black" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black.otf//Berkeley Mono Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-Condensed.otf//Berkeley Mono Black Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-Condensed.otf//Berkeley Mono Black Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-Condensed-Oblique.otf//Berkeley Mono Black Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-Condensed-Oblique.otf//Berkeley Mono Black Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-ExtraCondensed.otf//Berkeley Mono Black ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-ExtraCondensed.otf//Berkeley Mono Black ExtraCondensed" checksum="(null)">
@@ -1801,22 +1813,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-ExtraCondensed-Oblique.otf//Berkeley Mono Black ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-ExtraCondensed-Oblique.otf//Berkeley Mono Black ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-Oblique.otf//Berkeley Mono Black Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-Oblique.otf//Berkeley Mono Black Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-SemiCondensed.otf//Berkeley Mono Black SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-SemiCondensed.otf//Berkeley Mono Black SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-SemiCondensed-Oblique.otf//Berkeley Mono Black SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-UltraCondensed.otf//Berkeley Mono Black UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-SemiCondensed-Oblique.otf//Berkeley Mono Black SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Black-UltraCondensed-Oblique.otf//Berkeley Mono Black UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-UltraCondensed.otf//Berkeley Mono Black UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Black-UltraCondensed-Oblique.otf//Berkeley Mono Black UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold.otf//Berkeley Mono Bold" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold.otf//Berkeley Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-Condensed.otf//Berkeley Mono Bold Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-Condensed.otf//Berkeley Mono Bold Condensed" checksum="(null)">
@@ -1825,40 +1855,76 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-Condensed-Oblique.otf//Berkeley Mono Bold Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-Condensed-Oblique.otf//Berkeley Mono Bold Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-ExtraCondensed.otf//Berkeley Mono Bold ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-ExtraCondensed.otf//Berkeley Mono Bold ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-ExtraCondensed-Oblique.otf//Berkeley Mono Bold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-ExtraCondensed-Oblique.otf//Berkeley Mono Bold ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-Oblique.otf//Berkeley Mono Bold Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-Oblique.otf//Berkeley Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-SemiCondensed.otf//Berkeley Mono Bold SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-SemiCondensed.otf//Berkeley Mono Bold SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-SemiCondensed-Oblique.otf//Berkeley Mono Bold SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-SemiCondensed-Oblique.otf//Berkeley Mono Bold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-UltraCondensed.otf//Berkeley Mono Bold UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-UltraCondensed.otf//Berkeley Mono Bold UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Bold-UltraCondensed-Oblique.otf//Berkeley Mono Bold UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Bold-UltraCondensed-Oblique.otf//Berkeley Mono Bold UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book.otf//Berkeley Mono Book" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book.otf//Berkeley Mono Book" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-Condensed.otf//Berkeley Mono Book Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-Condensed.otf//Berkeley Mono Book Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-Condensed-Oblique.otf//Berkeley Mono Book Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-Condensed-Oblique.otf//Berkeley Mono Book Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-ExtraCondensed.otf//Berkeley Mono Book ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-ExtraCondensed.otf//Berkeley Mono Book ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-ExtraCondensed-Oblique.otf//Berkeley Mono Book ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-ExtraCondensed-Oblique.otf//Berkeley Mono Book ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-Oblique.otf//Berkeley Mono Book Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-Oblique.otf//Berkeley Mono Book Oblique" checksum="(null)">
@@ -1867,16 +1933,28 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-SemiCondensed.otf//Berkeley Mono Book SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-SemiCondensed.otf//Berkeley Mono Book SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-SemiCondensed-Oblique.otf//Berkeley Mono Book SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-SemiCondensed-Oblique.otf//Berkeley Mono Book SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-UltraCondensed.otf//Berkeley Mono Book UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-UltraCondensed.otf//Berkeley Mono Book UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Book-UltraCondensed-Oblique.otf//Berkeley Mono Book UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Book-UltraCondensed-Oblique.otf//Berkeley Mono Book UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Condensed.otf//Berkeley Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Condensed.otf//Berkeley Mono Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Condensed-Oblique.otf//Berkeley Mono Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Condensed-Oblique.otf//Berkeley Mono Condensed Oblique" checksum="(null)">
@@ -1885,19 +1963,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold.otf//Berkeley Mono ExtraBold" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold.otf//Berkeley Mono ExtraBold" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-Condensed.otf//Berkeley Mono ExtraBold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-Condensed.otf//Berkeley Mono ExtraBold Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-Condensed-Oblique.otf//Berkeley Mono ExtraBold Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-Condensed-Oblique.otf//Berkeley Mono ExtraBold Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-ExtraCondensed.otf//Berkeley Mono ExtraBold ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-ExtraCondensed.otf//Berkeley Mono ExtraBold ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-ExtraCondensed-Oblique.otf//Berkeley Mono ExtraBold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-ExtraCondensed-Oblique.otf//Berkeley Mono ExtraBold ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-Oblique.otf//Berkeley Mono ExtraBold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-Oblique.otf//Berkeley Mono ExtraBold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-SemiCondensed.otf//Berkeley Mono ExtraBold SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-SemiCondensed.otf//Berkeley Mono ExtraBold SemiCondensed" checksum="(null)">
@@ -1906,19 +2005,34 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-SemiCondensed-Oblique.otf//Berkeley Mono ExtraBold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-UltraCondensed.otf//Berkeley Mono ExtraBold UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-SemiCondensed-Oblique.otf//Berkeley Mono ExtraBold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraBold-UltraCondensed-Oblique.otf//Berkeley Mono ExtraBold UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-UltraCondensed.otf//Berkeley Mono ExtraBold UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraBold-UltraCondensed-Oblique.otf//Berkeley Mono ExtraBold UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraCondensed.otf//Berkeley Mono ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraCondensed.otf//Berkeley Mono ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraCondensed-Oblique.otf//Berkeley Mono ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraCondensed-Oblique.otf//Berkeley Mono ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight.otf//Berkeley Mono ExtraLight" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight.otf//Berkeley Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-Condensed.otf//Berkeley Mono ExtraLight Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-Condensed.otf//Berkeley Mono ExtraLight Condensed" checksum="(null)">
@@ -1927,34 +2041,64 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-Condensed-Oblique.otf//Berkeley Mono ExtraLight Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-Condensed-Oblique.otf//Berkeley Mono ExtraLight Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-ExtraCondensed.otf//Berkeley Mono ExtraLight ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-ExtraCondensed.otf//Berkeley Mono ExtraLight ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-ExtraCondensed-Oblique.otf//Berkeley Mono ExtraLight ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-ExtraCondensed-Oblique.otf//Berkeley Mono ExtraLight ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-Oblique.otf//Berkeley Mono ExtraLight Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-Oblique.otf//Berkeley Mono ExtraLight Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-SemiCondensed.otf//Berkeley Mono ExtraLight SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-SemiCondensed.otf//Berkeley Mono ExtraLight SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-SemiCondensed-Oblique.otf//Berkeley Mono ExtraLight SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-SemiCondensed-Oblique.otf//Berkeley Mono ExtraLight SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-UltraCondensed.otf//Berkeley Mono ExtraLight UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-UltraCondensed.otf//Berkeley Mono ExtraLight UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-ExtraLight-UltraCondensed-Oblique.otf//Berkeley Mono ExtraLight UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-ExtraLight-UltraCondensed-Oblique.otf//Berkeley Mono ExtraLight UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light.otf//Berkeley Mono Light" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light.otf//Berkeley Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-Condensed.otf//Berkeley Mono Light Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-Condensed.otf//Berkeley Mono Light Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-Condensed-Oblique.otf//Berkeley Mono Light Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-Condensed-Oblique.otf//Berkeley Mono Light Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-ExtraCondensed.otf//Berkeley Mono Light ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-ExtraCondensed.otf//Berkeley Mono Light ExtraCondensed" checksum="(null)">
@@ -1963,19 +2107,34 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-ExtraCondensed-Oblique.otf//Berkeley Mono Light ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-ExtraCondensed-Oblique.otf//Berkeley Mono Light ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-Oblique.otf//Berkeley Mono Light Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-Oblique.otf//Berkeley Mono Light Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-SemiCondensed.otf//Berkeley Mono Light SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-SemiCondensed.otf//Berkeley Mono Light SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-SemiCondensed-Oblique.otf//Berkeley Mono Light SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-UltraCondensed.otf//Berkeley Mono Light UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-SemiCondensed-Oblique.otf//Berkeley Mono Light SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Light-UltraCondensed-Oblique.otf//Berkeley Mono Light UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-UltraCondensed.otf//Berkeley Mono Light UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Light-UltraCondensed-Oblique.otf//Berkeley Mono Light UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium.otf//Berkeley Mono Medium" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium.otf//Berkeley Mono Medium" checksum="(null)">
@@ -1984,31 +2143,58 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-Condensed.otf//Berkeley Mono Medium Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-Condensed.otf//Berkeley Mono Medium Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-Condensed-Oblique.otf//Berkeley Mono Medium Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-Condensed-Oblique.otf//Berkeley Mono Medium Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-ExtraCondensed.otf//Berkeley Mono Medium ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-ExtraCondensed.otf//Berkeley Mono Medium ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-ExtraCondensed-Oblique.otf//Berkeley Mono Medium ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-ExtraCondensed-Oblique.otf//Berkeley Mono Medium ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-Oblique.otf//Berkeley Mono Medium Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-Oblique.otf//Berkeley Mono Medium Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-SemiCondensed.otf//Berkeley Mono Medium SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-SemiCondensed.otf//Berkeley Mono Medium SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-SemiCondensed-Oblique.otf//Berkeley Mono Medium SemiCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-SemiCondensed-Oblique.otf//Berkeley Mono Medium SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-UltraCondensed.otf//Berkeley Mono Medium UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-UltraCondensed.otf//Berkeley Mono Medium UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Medium-UltraCondensed-Oblique.otf//Berkeley Mono Medium UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Medium-UltraCondensed-Oblique.otf//Berkeley Mono Medium UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Oblique.otf//Berkeley Mono Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Oblique.otf//Berkeley Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Regular.otf//Berkeley Mono Regular" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Regular.otf//Berkeley Mono Regular" checksum="(null)">
@@ -2017,16 +2203,34 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina.otf//Berkeley Mono Retina" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina.otf//Berkeley Mono Retina" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-Condensed.otf//Berkeley Mono Retina Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-Condensed.otf//Berkeley Mono Retina Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-Condensed-Oblique.otf//Berkeley Mono Retina Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-Condensed-Oblique.otf//Berkeley Mono Retina Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-ExtraCondensed.otf//Berkeley Mono Retina ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-ExtraCondensed.otf//Berkeley Mono Retina ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-ExtraCondensed-Oblique.otf//Berkeley Mono Retina ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-ExtraCondensed-Oblique.otf//Berkeley Mono Retina ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-Oblique.otf//Berkeley Mono Retina Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-Oblique.otf//Berkeley Mono Retina Oblique" checksum="(null)">
@@ -2035,22 +2239,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-SemiCondensed.otf//Berkeley Mono Retina SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-SemiCondensed.otf//Berkeley Mono Retina SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-SemiCondensed-Oblique.otf//Berkeley Mono Retina SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-UltraCondensed.otf//Berkeley Mono Retina UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-SemiCondensed-Oblique.otf//Berkeley Mono Retina SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Retina-UltraCondensed-Oblique.otf//Berkeley Mono Retina UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-UltraCondensed.otf//Berkeley Mono Retina UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Retina-UltraCondensed-Oblique.otf//Berkeley Mono Retina UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold.otf//Berkeley Mono SemiBold" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold.otf//Berkeley Mono SemiBold" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-Condensed.otf//Berkeley Mono SemiBold Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-Condensed.otf//Berkeley Mono SemiBold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-Condensed-Oblique.otf//Berkeley Mono SemiBold Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-Condensed-Oblique.otf//Berkeley Mono SemiBold Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-ExtraCondensed.otf//Berkeley Mono SemiBold ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-ExtraCondensed.otf//Berkeley Mono SemiBold ExtraCondensed" checksum="(null)">
@@ -2059,34 +2281,64 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-ExtraCondensed-Oblique.otf//Berkeley Mono SemiBold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-ExtraCondensed-Oblique.otf//Berkeley Mono SemiBold ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-Oblique.otf//Berkeley Mono SemiBold Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-Oblique.otf//Berkeley Mono SemiBold Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-SemiCondensed.otf//Berkeley Mono SemiBold SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-SemiCondensed.otf//Berkeley Mono SemiBold SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-SemiCondensed-Oblique.otf//Berkeley Mono SemiBold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-UltraCondensed.otf//Berkeley Mono SemiBold UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-SemiCondensed-Oblique.otf//Berkeley Mono SemiBold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiBold-UltraCondensed-Oblique.otf//Berkeley Mono SemiBold UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-UltraCondensed.otf//Berkeley Mono SemiBold UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiBold-UltraCondensed-Oblique.otf//Berkeley Mono SemiBold UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiCondensed.otf//Berkeley Mono SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiCondensed.otf//Berkeley Mono SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiCondensed-Oblique.otf//Berkeley Mono SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiCondensed-Oblique.otf//Berkeley Mono SemiCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight.otf//Berkeley Mono SemiLight" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight.otf//Berkeley Mono SemiLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-Condensed.otf//Berkeley Mono SemiLight Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-Condensed.otf//Berkeley Mono SemiLight Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-Condensed-Oblique.otf//Berkeley Mono SemiLight Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-Condensed-Oblique.otf//Berkeley Mono SemiLight Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-ExtraCondensed.otf//Berkeley Mono SemiLight ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-ExtraCondensed.otf//Berkeley Mono SemiLight ExtraCondensed" checksum="(null)">
@@ -2095,28 +2347,52 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-ExtraCondensed-Oblique.otf//Berkeley Mono SemiLight ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-ExtraCondensed-Oblique.otf//Berkeley Mono SemiLight ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-Oblique.otf//Berkeley Mono SemiLight Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-Oblique.otf//Berkeley Mono SemiLight Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-SemiCondensed.otf//Berkeley Mono SemiLight SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-SemiCondensed.otf//Berkeley Mono SemiLight SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-SemiCondensed-Oblique.otf//Berkeley Mono SemiLight SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-SemiCondensed-Oblique.otf//Berkeley Mono SemiLight SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-UltraCondensed.otf//Berkeley Mono SemiLight UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-UltraCondensed.otf//Berkeley Mono SemiLight UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-SemiLight-UltraCondensed-Oblique.otf//Berkeley Mono SemiLight UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-SemiLight-UltraCondensed-Oblique.otf//Berkeley Mono SemiLight UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin.otf//Berkeley Mono Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin.otf//Berkeley Mono Thin" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-Condensed.otf//Berkeley Mono Thin Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-Condensed.otf//Berkeley Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-Condensed-Oblique.otf//Berkeley Mono Thin Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-Condensed-Oblique.otf//Berkeley Mono Thin Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-ExtraCondensed.otf//Berkeley Mono Thin ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-ExtraCondensed.otf//Berkeley Mono Thin ExtraCondensed" checksum="(null)">
@@ -2125,31 +2401,52 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-ExtraCondensed-Oblique.otf//Berkeley Mono Thin ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-ExtraCondensed-Oblique.otf//Berkeley Mono Thin ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-Oblique.otf//Berkeley Mono Thin Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-Oblique.otf//Berkeley Mono Thin Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-SemiCondensed.otf//Berkeley Mono Thin SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-SemiCondensed.otf//Berkeley Mono Thin SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-SemiCondensed-Oblique.otf//Berkeley Mono Thin SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-SemiCondensed-Oblique.otf//Berkeley Mono Thin SemiCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-UltraCondensed.otf//Berkeley Mono Thin UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-UltraCondensed.otf//Berkeley Mono Thin UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-Thin-UltraCondensed-Oblique.otf//Berkeley Mono Thin UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-Thin-UltraCondensed-Oblique.otf//Berkeley Mono Thin UltraCondensed Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-UltraCondensed.otf//Berkeley Mono UltraCondensed" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-UltraCondensed.otf//Berkeley Mono UltraCondensed" checksum="(null)">
   </resource>
 
-  <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/BerkeleyMono-UltraCondensed-Oblique.otf//Berkeley Mono UltraCondensed Oblique" checksum="(null)">
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/BerkeleyMono-UltraCondensed-Oblique.otf//Berkeley Mono UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black Condensed Oblique" checksum="(null)">
@@ -2158,7 +2455,16 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black Oblique" checksum="(null)">
@@ -2167,10 +2473,22 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black SemiCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Black UltraCondensed Oblique" checksum="(null)">
@@ -2179,7 +2497,16 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold Condensed Oblique" checksum="(null)">
@@ -2188,10 +2515,22 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold SemiCondensed" checksum="(null)">
@@ -2200,19 +2539,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold UltraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold UltraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold UltraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Bold UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book ExtraCondensed" checksum="(null)">
@@ -2221,22 +2581,46 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book UltraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book UltraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Book UltraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Condensed Oblique" checksum="(null)">
@@ -2245,28 +2629,58 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold SemiCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold UltraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraBold UltraCondensed Oblique" checksum="(null)">
@@ -2275,10 +2689,22 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight Condensed" checksum="(null)">
@@ -2287,16 +2713,34 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight SemiCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight SemiCondensed Oblique" checksum="(null)">
@@ -2305,19 +2749,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight UltraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable ExtraLight UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light ExtraCondensed Oblique" checksum="(null)">
@@ -2326,19 +2791,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light SemiCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light UltraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light UltraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Light UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium Condensed" checksum="(null)">
@@ -2347,7 +2833,16 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium Condensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium ExtraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium ExtraCondensed Oblique" checksum="(null)">
@@ -2356,13 +2851,28 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium SemiCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium UltraCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Medium UltraCondensed Oblique" checksum="(null)">
@@ -2371,7 +2881,16 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Regular" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina" checksum="(null)">
@@ -2380,13 +2899,28 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina Oblique" checksum="(null)">
@@ -2395,16 +2929,34 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina SemiCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina UltraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina UltraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina UltraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Retina UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold Condensed" checksum="(null)">
@@ -2413,19 +2965,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold Condensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold UltraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold UltraCondensed" checksum="(null)">
@@ -2434,25 +3007,52 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold UltraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiBold UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiCondensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight Condensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight ExtraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight Oblique" checksum="(null)">
@@ -2461,19 +3061,40 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight SemiCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight UltraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight UltraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable SemiLight UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin Condensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin Condensed Oblique" checksum="(null)">
@@ -2482,16 +3103,34 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin ExtraCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin ExtraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin ExtraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin ExtraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin SemiCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin SemiCondensed" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin SemiCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin UltraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin UltraCondensed" checksum="(null)">
@@ -2500,10 +3139,19 @@
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin UltraCondensed Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable Thin UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable UltraCondensed" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable UltraCondensed" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable UltraCondensed Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/local-fonts/linux-fonts.old/berkeley-mono/Berkeley Mono Variable.otf//Berkeley Mono Variable UltraCondensed Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/fonts/urw-base35/C059-Bold.otf//C059 Bold" checksum="(null)">
@@ -5069,6 +5717,114 @@
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/input/InputSerif/InputSerif/InputSerif-ThinItalic.ttf//Input Serif Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Black.ttf//Inter Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-BlackItalic.ttf//Inter Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Bold.ttf//Inter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-BoldItalic.ttf//Inter Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Black.ttf//Inter Display Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-BlackItalic.ttf//Inter Display Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Bold.ttf//Inter Display Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-BoldItalic.ttf//Inter Display Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-ExtraBold.ttf//Inter Display ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-ExtraBoldItalic.ttf//Inter Display ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-ExtraLight.ttf//Inter Display ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-ExtraLightItalic.ttf//Inter Display ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Italic.ttf//Inter Display Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Light.ttf//Inter Display Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-LightItalic.ttf//Inter Display Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Medium.ttf//Inter Display Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-MediumItalic.ttf//Inter Display Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Regular.ttf//Inter Display Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-SemiBold.ttf//Inter Display SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-SemiBoldItalic.ttf//Inter Display SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-Thin.ttf//Inter Display Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/InterDisplay-ThinItalic.ttf//Inter Display Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-ExtraBold.ttf//Inter ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-ExtraBoldItalic.ttf//Inter ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-ExtraLight.ttf//Inter ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-ExtraLightItalic.ttf//Inter ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Italic.ttf//Inter Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Light.ttf//Inter Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-LightItalic.ttf//Inter Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Medium.ttf//Inter Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-MediumItalic.ttf//Inter Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Regular.ttf//Inter Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-SemiBold.ttf//Inter SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-SemiBoldItalic.ttf//Inter SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-Thin.ttf//Inter Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/run/host/fonts/rsms-inter-fonts/Inter-ThinItalic.ttf//Inter Thin Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/run/host/local-fonts/linux-fonts/iosevka/PkgTTF-IosevkaAile-33.3.4/IosevkaAile-Bold.ttf//Iosevka Aile Bold" checksum="(null)">
