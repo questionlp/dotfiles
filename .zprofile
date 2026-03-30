@@ -20,3 +20,8 @@ if [[ $(uname) == "Darwin" && -d "$HOME/Library/Application Support/JetBrains/To
     export PATH="$PATH:$HOME/Library/Application Support/JetBrains/Toolbox/scripts"
 fi
 
+# Add JetBrains Toolbox to PATH in Linux
+if [[ $(uname) == "Linux" && -d "$HOME/.local/share/JetBrains/Toolbox/scripts" ]]; then
+    export PATH="$PATH:$HOME/.local/share/JetBrains/Toolbox/scripts"
+fi
+
