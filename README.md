@@ -2,6 +2,8 @@
 
 This repository contains the Bash and Z Shell scripts that I use on my macOS and Linux development machines.
 
+**Note:** The authoritative version of this repository now resides on Codeberg as [dotfiles](https://codeberg.org/qlp/dotfiles) and mirrors changes to GitHub. Going forward, issues and pull requests should be created on Codeberg rather than GitHub.
+
 ## Bash
 
 For Bash, the included `.bashrc` and `.profile` files come from a stock installation of [Pop!_OS](https://pop.system76.com) 22.04 LTS and have been slightly modified to load in [pyenv](https://github.com/pyenv/pyenv).
@@ -31,3 +33,6 @@ Clone this repository into a location of your choice, back up any existing Z She
 
 The repository also includes a `.screenrc` file that includes a customized hardstatus line. You can create a symlink in your home directory to point to the file in the repository.
 
+## 'License'
+
+Files and documentation included in this repository is free and unemcumbered software released into the public domain. For more information, see the included UNLICENSE file.
