@@ -8,9 +8,12 @@ insert_final_newline = true
 [*.{json,md,py,rst}]
 charset = utf-8
 
-[*.{css,html,json,py,rst,tmpl,md}]
+[*.{css,html,js,json,py,rst,tmpl,md}]
 indent_size = 4
 indent_style = space
+
+[{package,package-lock}.json]
+indent_size = 2
 
 [Makefile]
 indent_style = tab
