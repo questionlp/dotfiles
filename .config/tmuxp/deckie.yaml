@@ -1,4 +1,4 @@
-session_name: stark
+session_name: deckie
 windows:
   - window_name: Home
     start_directory: $HOME
