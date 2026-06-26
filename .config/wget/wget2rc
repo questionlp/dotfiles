@@ -1,2 +1,3 @@
 no-http2
 max-threads=1
+show-progress
