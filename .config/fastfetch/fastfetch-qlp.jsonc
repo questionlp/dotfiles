@@ -1,0 +1,173 @@
+// By Linh Pham
+// Inspired by:
+//   https://github.com/fastfetch-cli/fastfetch/blob/master/presets/examples/24.jsonc
+//   https://github.com/JorgeAlMoLa/fastfetch-boxes-theme/
+// Source Code: https://codeberg.org/qlp/dotfiles
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "display": {
+    "separator": ""
+  },
+  "modules": [
+    // Title
+    {
+      "type": "custom",
+      "key": "{#white}╭─ {#cyan}Login"
+    },
+    {
+      "type": "title",
+      "key": "{#white}│ {#light_magenta}User/Host ",
+      "format": "{#bold_default}{user-name}{#bold_white}@{#}{#bold_cyan}{host-name}"
+    },
+    {
+      "type": "custom",
+      "key": "{#white}╰─"
+    },
+    // Software
+    {
+      "type": "custom",
+      "key": "{#white}╭─ {#cyan}Software"
+    },
+    {
+      "type": "os",
+      "key": "{#white}│ {#light_magenta}OS        "
+    },
+    {
+      "type": "kernel",
+      "key": "{#white}│ {#light_magenta}Kernel    "
+    },
+    {
+      "type": "packages",
+      "key": "{#white}│ {#light_magenta}Packages  ",
+      "format": "RPM: {rpm}, Flatpak: {flatpak-system}"
+    },
+    {
+      "type": "de",
+      "key": "{#white}│ {#light_magenta}DE        "
+    },
+    {
+      "type": "terminal",
+      "key": "{#white}│ {#light_magenta}Terminal  ",
+      "format": "{pretty-name}{?version} {version}{?}, {tty}"
+    },
+    {
+      "type": "terminalfont",
+      "key": "{#white}│ {#light_magenta}Font      ",
+      "format": "{name}, Font Size: {size}pt"
+    },
+    {
+      "type": "shell",
+      "key": "{#white}│ {#light_magenta}Shell     "
+    },
+    {
+      "type": "custom",
+      "key": "{#white}╰─"
+    },
+    // Hardware
+    {
+      "type": "custom",
+      "key": "{#white}╭─ {#cyan}Hardware"
+    },
+    {
+      "type": "host",
+      "key": "{#white}│ {#light_magenta}Machine   "
+    },
+    {
+      "type": "cpu",
+      "key": "{#white}│ {#light_magenta}CPU       ",
+      "showPeCoreCount": true,
+      "temp": true,
+      "format": "{name}, Cores: {core-types}"
+    },
+    {
+      "type": "cpu",
+      "key": "{#white}│ {#light_magenta}          ",
+      "showPeCoreCount": true,
+      "temp": true,
+      "format": "Frequency: Base: {freq-base}, Max: {freq-max}"
+    },
+    {
+      "type": "gpu",
+      "key": "{#white}│ {#light_magenta}GPU       ",
+      "detectionMethod": "auto",
+      "driverSpecific": false,
+      "format": "{2}, {type}"
+    },
+    {
+      "type": "gpu",
+      "key": "{#white}│ {#light_magenta}          ",
+      "detectionMethod": "pci",
+      "driverSpecific": true,
+      "format": "Cores: {core-count}, Frequency: {?frequency}{frequency}{?}, {?dedicated-total}VRAM: {dedicated-total}{?}"
+    },
+    {
+      "type": "memory",
+      "key": "{#white}│ {#light_magenta}Memory    "
+    },
+    {
+      "type": "swap",
+      "key": "{#white}│ {#light_magenta}Swap      "
+    },
+    {
+      "type": "display",
+      "key": "{#white}│ {#light_magenta}Display   ",
+      "format": "{name}: {width}x{height} @ {refresh-rate} Hz, Size: {inch}\", Type: {type}"
+    },
+    {
+      "type": "battery",
+      "key": "{#white}│ {#light_magenta}Battery   ",
+      "format": "{manufacturer} {model-name}, SoC: {capacity}"
+    },
+    {
+      "type": "battery",
+      "key": "{#white}│ {#light_magenta}          ",
+      "format": "Status: {status}{?time-hours}, Time Remaining: {time-hours}h {time-minutes}m{?}"
+    },
+    {
+      "type": "disk",
+      "key": "{#white}│ {#light_magenta}Disk      ",
+      "format": "{#bold_default}{mountpoint}:{#} {size-used} / {size-total} ({size-percentage}), FS: {filesystem}"
+    },
+    {
+      "type": "uptime",
+      "key": "{#white}│ {#light_magenta}Uptime    "
+    },
+    {
+      "type": "custom",
+      "key": "{#white}╰─"
+    },
+    // Network
+    {
+      "type": "custom",
+      "key": "{#white}╭─ {#cyan}Network"
+    },
+    {
+      "type": "localip",
+      "key": "{#white}│ {#light_magenta}IPv4      ",
+      "showPrefixLen": true,
+      "showIpv6": false,
+      "format": "{ifname}: {ipv4} {ipv6}"
+    },
+    {
+      "type": "localip",
+      "key": "{#white}│ {#light_magenta}IPv6      ",
+      "showPrefixLen": true,
+      "showIpv4": false,
+      "showIpv6": true,
+      "format": "{ifname}: {ipv6}"
+    },
+    {
+      "type": "custom",
+      "key": "{#white}╰─"
+    },
+    // Terminal Colors
+    {
+      "type": "custom",
+      "key": " "
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 2
+    }
+  ]
+}
