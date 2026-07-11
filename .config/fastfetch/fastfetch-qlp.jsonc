@@ -111,7 +111,7 @@
     {
       "type": "display",
       "key": "{#white}│ {#light_magenta}Display   ",
-      "format": "{name}: {width}x{height} @ {refresh-rate} Hz{?inch}, Size: {inch}\"{?}, Type: {type}"
+      "format": "{name}: {width}x{height}{?refresh-rate} @ {refresh-rate} Hz{?}{?inch}, Size: {inch}\"{?}, Type: {type}"
     },
     {
       "type": "battery",
