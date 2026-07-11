@@ -116,7 +116,7 @@
     {
       "type": "battery",
       "key": "{#white}│ {#light_magenta}Battery   ",
-      "format": "{manufacturer} {model-name}, SoC: {capacity}"
+      "format": "{?manufacturer}{manufacturer} {?}{?model-name}{model-name}, {?}SoC: {capacity}"
     },
     {
       "type": "battery",
