@@ -12,145 +12,145 @@
     // Title
     {
       "type": "custom",
-      "key": "{#white}╭─ {#cyan}Login"
+      "key": "{#bold_default}╭─ {#cyan}Login"
     },
     {
       "type": "title",
-      "key": "{#white}│ {#light_magenta}User/Host ",
-      "format": "{#bold_default}{user-name}{#bold_white}@{#}{#bold_cyan}{host-name}"
+      "key": "{#bold_default}│ {#light_magenta}User/Host ",
+      "format": "{#bold_default}{user-name}@{#bold_cyan}{host-name}"
     },
     {
       "type": "custom",
-      "key": "{#white}╰─"
+      "key": "{#bold_default}╰─"
     },
     // Software
     {
       "type": "custom",
-      "key": "{#white}╭─ {#cyan}Software"
+      "key": "{#bold_default}╭─ {#cyan}Software"
     },
     {
       "type": "os",
-      "key": "{#white}│ {#light_magenta}OS        "
+      "key": "{#bold_default}│ {#light_magenta}OS        "
     },
     {
       "type": "kernel",
-      "key": "{#white}│ {#light_magenta}Kernel    "
+      "key": "{#bold_default}│ {#light_magenta}Kernel    "
     },
     {
       "type": "packages",
-      "key": "{#white}│ {#light_magenta}Packages  ",
+      "key": "{#bold_default}│ {#light_magenta}Packages  ",
       "format": "RPM: {rpm}, Flatpak: {flatpak-system}"
     },
     {
       "type": "de",
-      "key": "{#white}│ {#light_magenta}DE        "
+      "key": "{#bold_default}│ {#light_magenta}DE        "
     },
     {
       "type": "terminal",
-      "key": "{#white}│ {#light_magenta}Terminal  ",
+      "key": "{#bold_default}│ {#light_magenta}Terminal  ",
       "format": "{pretty-name}{?version} {version}{?}, {tty}"
     },
     {
       "type": "terminalfont",
-      "key": "{#white}│ {#light_magenta}Font      ",
+      "key": "{#bold_default}│ {#light_magenta}Font      ",
       "format": "{name}, Font Size: {size}pt"
     },
     {
       "type": "shell",
-      "key": "{#white}│ {#light_magenta}Shell     "
+      "key": "{#bold_default}│ {#light_magenta}Shell     "
     },
     {
       "type": "custom",
-      "key": "{#white}╰─"
+      "key": "{#bold_default}╰─"
     },
     // Hardware
     {
       "type": "custom",
-      "key": "{#white}╭─ {#cyan}Hardware"
+      "key": "{#bold_default}╭─ {#cyan}Hardware"
     },
     {
       "type": "host",
-      "key": "{#white}│ {#light_magenta}Machine   "
+      "key": "{#bold_default}│ {#light_magenta}Machine   "
     },
     {
       "type": "cpu",
-      "key": "{#white}│ {#light_magenta}CPU       ",
+      "key": "{#bold_default}│ {#light_magenta}CPU       ",
       "showPeCoreCount": true,
       "temp": true,
       "format": "{name}, Cores: {core-types}"
     },
     {
       "type": "cpu",
-      "key": "{#white}│ {#light_magenta}          ",
+      "key": "{#bold_default}│ {#light_magenta}          ",
       "showPeCoreCount": true,
       "temp": true,
       "format": "Frequency: Base: {freq-base}, Max: {freq-max}"
     },
     {
       "type": "gpu",
-      "key": "{#white}│ {#light_magenta}GPU       ",
+      "key": "{#bold_default}│ {#light_magenta}GPU       ",
       "detectionMethod": "auto",
       "driverSpecific": false,
       "format": "{2}, {type}"
     },
     {
       "type": "gpu",
-      "key": "{#white}│ {#light_magenta}          ",
+      "key": "{#bold_default}│ {#light_magenta}          ",
       "detectionMethod": "pci",
       "driverSpecific": true,
       "format": "Cores: {core-count}{?frequency}, Frequency: {frequency}{?}{?dedicated-total}, VRAM: {dedicated-total}{?}"
     },
     {
       "type": "memory",
-      "key": "{#white}│ {#light_magenta}Memory    "
+      "key": "{#bold_default}│ {#light_magenta}Memory    "
     },
     {
       "type": "swap",
-      "key": "{#white}│ {#light_magenta}Swap      "
+      "key": "{#bold_default}│ {#light_magenta}Swap      "
     },
     {
       "type": "display",
-      "key": "{#white}│ {#light_magenta}Display   ",
+      "key": "{#bold_default}│ {#light_magenta}Display   ",
       "format": "{name}: {width}x{height}{?refresh-rate} @ {refresh-rate} Hz{?}{?inch}, Size: {inch}\"{?}, Type: {type}"
     },
     {
       "type": "battery",
-      "key": "{#white}│ {#light_magenta}Battery   ",
+      "key": "{#bold_default}│ {#light_magenta}Battery   ",
       "format": "{?manufacturer}{manufacturer} {?}{?model-name}{model-name}, {?}SoC: {capacity}"
     },
     {
       "type": "battery",
-      "key": "{#white}│ {#light_magenta}          ",
+      "key": "{#bold_default}│ {#light_magenta}          ",
       "format": "Status: {status}{?time-hours}, Time Remaining: {time-hours}h {time-minutes}m{?}"
     },
     {
       "type": "disk",
-      "key": "{#white}│ {#light_magenta}Disk      ",
+      "key": "{#bold_default}│ {#light_magenta}Disk      ",
       "format": "{#bold_default}{mountpoint}:{#} {size-used} / {size-total} ({size-percentage}), FS: {filesystem}"
     },
     {
       "type": "uptime",
-      "key": "{#white}│ {#light_magenta}Uptime    "
+      "key": "{#bold_default}│ {#light_magenta}Uptime    "
     },
     {
       "type": "custom",
-      "key": "{#white}╰─"
+      "key": "{#bold_default}╰─"
     },
     // Network
     {
       "type": "custom",
-      "key": "{#white}╭─ {#cyan}Network"
+      "key": "{#bold_default}╭─ {#cyan}Network"
     },
     {
       "type": "localip",
-      "key": "{#white}│ {#light_magenta}IPv4      ",
+      "key": "{#bold_default}│ {#light_magenta}IPv4      ",
       "showPrefixLen": true,
       "showIpv6": false,
       "format": "{ifname}: {ipv4} {ipv6}"
     },
     {
       "type": "localip",
-      "key": "{#white}│ {#light_magenta}IPv6      ",
+      "key": "{#bold_default}│ {#light_magenta}IPv6      ",
       "showPrefixLen": true,
       "showIpv4": false,
       "showIpv6": true,
@@ -158,13 +158,10 @@
     },
     {
       "type": "custom",
-      "key": "{#white}╰─"
+      "key": "{#bold_default}╰─"
     },
+    "break",
     // Terminal Colors
-    {
-      "type": "custom",
-      "key": " "
-    },
     {
       "type": "colors",
       "paddingLeft": 2
