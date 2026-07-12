@@ -39,7 +39,7 @@
     {
       "type": "packages",
       "key": "{#bright_default}│ {#light_magenta}Packages  ",
-      "format": "{?dpkg}dpkg: {dpkg}, {?}{?rpm}rpm: {rpm}, {?}flatpak: {flatpak-all}"
+      "format": "RPM: {rpm}, Flatpak: {flatpak-all}"
     },
     {
       "type": "de",
@@ -77,28 +77,18 @@
       "key": "{#bright_default}│ {#light_magenta}CPU       ",
       "showPeCoreCount": true,
       "temp": true,
-      "format": "{name}, Cores: {core-types}"
+      "format": "{name}, Cores: {cores-physical}"
     },
     {
       "type": "cpu",
       "key": "{#bright_default}│ {#light_magenta}          ",
       "showPeCoreCount": true,
       "temp": true,
-      "format": "Frequency: Base: {freq-base}, Max: {freq-max}"
+      "format": "Frequency: Base: {freq-base}{?freq-max}, Max: {freq-max}{?}"
     },
     {
       "type": "gpu",
-      "key": "{#bright_default}│ {#light_magenta}GPU       ",
-      "detectionMethod": "auto",
-      "driverSpecific": false,
-      "format": "{2}, {type}"
-    },
-    {
-      "type": "gpu",
-      "key": "{#bright_default}│ {#light_magenta}          ",
-      "detectionMethod": "pci",
-      "driverSpecific": true,
-      "format": "Cores: {core-count}{?frequency}, Frequency: {frequency}{?}{?dedicated-total}, VRAM: {dedicated-total}{?}"
+      "key": "{#bright_default}│ {#light_magenta}GPU       "
     },
     {
       "type": "memory",
