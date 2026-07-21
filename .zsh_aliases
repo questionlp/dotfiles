@@ -1,10 +1,27 @@
 # yt-dlp Aliases
+# Includes thumbnail and subtitles, avoid AV01
 alias yt="yt-dlp --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US,en-GB --write-auto-sub --write-sub --sub-format srt/vtt/best"
+
+# Uses cookies, includes thumbnail and subtitles, avoid AV01
 alias ytyt="yt-dlp --cookies-from-browser firefox --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US,en-GB --write-auto-sub --write-sub --sub-format srt/vtt/best"
+
+# Old PBS videos, uses cookies, includes thumbnail and subtitles
+alias ytop="yt-dlp --cookies-from-browser firefox --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US,en-GB --write-auto-sub --write-sub --sub-format srt/vtt/best"
+
+# Uses cookies, no playlist, includes thumbnail and subtitles, avoid AV01
 alias ytytnp="yt-dlp --cookies-from-browser firefox --no-playlist --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US,en-GB --write-auto-sub --write-sub --sub-format srt/vtt/best"
+
+# Includes date in name, uses cookies, includes thumbnail and subtitles, avoid AV01
 alias ytec="yt-dlp --cookies-from-browser firefox -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US,en-GB --write-auto-sub --write-sub --sub-format srt/vtt/best"
+
+# Includes date in name, uses cookies, no playlist, includes thumbnail and subtitles, avoid AV01
 alias ytecnp="yt-dlp --cookies-from-browser firefox --no-playlist -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail -f '(bv*+ba/b)[vcodec!*=av01]' --convert-thumbnail jpg --sub-lang en,en-US,en-GB --write-auto-sub --write-sub --sub-format srt/vtt/best"
+
+# Newer PBS videos, uses cookies, includes thumbnail and subtitles
 alias ytpbs="yt-dlp --cookies-from-browser firefox --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best -f hls-multiple_audio_tracks-English+bestvideo"
+
+# Newer PBS videos, includes date in name, uses cookies, includes thumbnail and subtitles
+alias ytecpbs="yt-dlp --cookies-from-browser firefox -o '%(upload_date)s - %(title)s [%(id)s].%(ext)s' --write-thumbnail --convert-thumbnail jpg --sub-lang en,en-US --write-auto-sub --write-sub --sub-format srt/vtt/best -f hls-multiple_audio_tracks-English+bestvideo"
 
 # Lynx
 alias lynx="lynx --lss=~/.config/lynx/lynx.lss"
