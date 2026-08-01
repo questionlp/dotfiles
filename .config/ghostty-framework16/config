@@ -20,6 +20,7 @@ window-decoration = auto
 window-height = 53
 window-inherit-font-size = false
 window-width = 110
+window-theme = ghostty
 adjust-cell-width = -1
 adjust-cell-height = 0
 window-padding-x = 2
