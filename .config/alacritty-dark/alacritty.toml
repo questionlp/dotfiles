@@ -1,6 +1,6 @@
 [general]
 import = [
-    "~/.config/alacritty/theme_lovelace.toml"
+    "~/.config/alacritty-themes/Purplepeter.toml"
 ]
 
 live_config_reload = true
