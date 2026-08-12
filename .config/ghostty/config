@@ -25,5 +25,5 @@ adjust-cell-width = -1
 adjust-cell-height = 0
 window-padding-x = 1
 window-padding-y = 1
-scrollback-limit = 100000
+scrollback-limit = 500000
 scrollbar = system
