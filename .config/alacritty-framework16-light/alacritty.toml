@@ -5,6 +5,9 @@ import = [
 
 live_config_reload = true
 
+[scrollbar]
+mode = "Fading"
+
 [terminal.shell]
 program = "/usr/bin/env"
 args = ["zsh", "-l"]
