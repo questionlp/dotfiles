@@ -174,3 +174,8 @@ if [[ -f "$HOME/.deno/bin/deno" ]]; then
     export PATH="$PATH:$HOME/.deno/bin"
 fi
 
+# zsh Functions
+if [[ -d "${ZDOTDIR:-~}/.zsh_functions" ]]; then
+	fpath+=${ZDOTDIR:-~}/.zsh_functions
+fi
+
