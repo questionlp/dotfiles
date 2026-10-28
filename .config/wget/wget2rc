@@ -3,3 +3,4 @@ max-threads=1
 no-verbose
 progress=bar
 show-progress
+hsts=0
